@@ -474,3 +474,9 @@
 - تم إضافة النقطة الحمراء (Red Dot) فوق المبنى مع ارتفاع 30 متر لضمان الظهور فوق الأسطح.
 - تم إصلاح مشكلة عدم ظهور الشكاوى بشكل لحظي للمهندس: تمت إضافة اتصال Socket.io في `EngineerPortalModal` و `ActiveTasksModal` بحيث يتم استدعاء `fetchComplaints()` تلقائياً عند استقبال أحداث `newComplaint` أو `updateComplaint` الصادرة من السيرفر.
 - تم تحسين أداء فتح نوافذ المهندس (Engineer Portal & Active Tasks) بحيث تفتح بشكل لحظي تماماً (Instant Open). تم نقل استدعاء المكونات لتعمل في الخلفية (Background) بمجرد تسجيل الدخول، وتظل متصلة بـ Socket.io لتحديث البيانات، وعند ضغط المستخدم لفتح النافذة يتم عرض البيانات المخزنة مسبقاً والمحدثة بدون الحاجة لوقت تحميل (Loading).
+
+
+## 11. Release & Source Code Deployment
+- Source code was cleaned up and structured into a source-code directory.
+- MongoDB Atlas database was backed up as JSON files in source-code/database-backup.
+- The final structured source code and database backup were pushed to the remote repository PTP-46-El-Narges-Portal.git on August 2026.

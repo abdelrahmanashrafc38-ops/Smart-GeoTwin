@@ -595,3 +595,9 @@ Both dev servers are currently running:
  | ActiveTasksModal 3D Map Fix (MongoDB fallback + Villa/Apartment support) | Done |
  | Real-time Socket.io Sync for Engineer Portal & Active Tasks Complaints | Done |
  | Instant Background Loading Architecture for Engineer Modals | Done |
+
+
+## L. Release & Deployment Details
+- **Final Delivery Structure**: The project codebase has been restructured into a source-code folder, separating frontend, backend, and one-click launch scripts.
+- **Database Backup**: A full export of all 13 MongoDB Atlas collections was performed and saved as JSON documents in source-code/database-backup/.
+- **Remote Sync**: The cleaned source code and database backup have been successfully pushed to the PTP-46-El-Narges-Portal GitHub repository.

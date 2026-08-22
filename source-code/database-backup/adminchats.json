@@ -1,0 +1,424 @@
+[
+  {
+    "_id": "6a6b89d0eda1cc5d4f12a8d5",
+    "title": "ModelU Apartments for 10 Million",
+    "messages": [
+      {
+        "sender": "ai",
+        "text": "Welcome! I am your AI Admin Assistant. You can ask to change user roles, assign units, revoke permissions, and modify prices.",
+        "_id": "6a6b89d0eda1cc5d4f12a8d6",
+        "timestamp": "2026-07-30T17:28:48.093Z"
+      },
+      {
+        "sender": "user",
+        "text": "عايز كل الشقق المتاحة اللي من نوع ModelU سعرها يبقى 10 مليون",
+        "_id": "6a6b89d0eda1cc5d4f12a8d7",
+        "timestamp": "2026-07-30T17:28:48.093Z"
+      },
+      {
+        "sender": "ai",
+        "text": "I have created an action to update the price of all available ModelU apartments to 10,000,000 EGP.\nSuccessfully updated the prices of 50 units.",
+        "_id": "6a6b89d0eda1cc5d4f12a8d8",
+        "timestamp": "2026-07-30T17:28:48.093Z"
+      },
+      {
+        "sender": "user",
+        "text": "عايز كل الشقق المتاحة اللي من نوع ModelU سعرها يبقى 5 مليون",
+        "_id": "6a6b89d0eda1cc5d4f12a8d9",
+        "timestamp": "2026-07-30T17:28:48.094Z"
+      },
+      {
+        "sender": "ai",
+        "text": "Understood. I have initiated the bulk price update for all available ModelU apartments to 5,000,000.\nSuccessfully updated the prices of 45 units.",
+        "_id": "6a6b89d0eda1cc5d4f12a8da",
+        "timestamp": "2026-07-30T17:28:48.094Z"
+      },
+      {
+        "sender": "user",
+        "text": "عايز اخلي @User One Owner ",
+        "_id": "6a6b89d0eda1cc5d4f12a8db",
+        "timestamp": "2026-07-30T17:28:48.094Z"
+      },
+      {
+        "sender": "ai",
+        "text": "❌ An error occurred while processing your request.",
+        "_id": "6a6b89d0eda1cc5d4f12a8dc",
+        "timestamp": "2026-07-30T17:28:48.094Z"
+      },
+      {
+        "sender": "user",
+        "text": "عايز اخلي @User One Owner ",
+        "_id": "6a6b89d0eda1cc5d4f12a8dd",
+        "timestamp": "2026-07-30T17:28:48.094Z"
+      },
+      {
+        "sender": "ai",
+        "text": "I have processed your request to change the role of User One (user1@gmail.com) to owner.\n🔔 Opening unit selection for User One as owner...",
+        "_id": "6a6b89d0eda1cc5d4f12a8de",
+        "timestamp": "2026-07-30T17:28:48.094Z"
+      },
+      {
+        "sender": "user",
+        "text": "عايز اخلي @User One Owner ",
+        "_id": "6a6b89d0eda1cc5d4f12a8df",
+        "timestamp": "2026-07-30T17:28:48.094Z"
+      },
+      {
+        "sender": "ai",
+        "text": "User One (user1@gmail.com) has been updated to the role of owner.\n🔔 Opening unit selection for User One as owner...",
+        "_id": "6a6b89d0eda1cc5d4f12a8e0",
+        "timestamp": "2026-07-30T17:28:48.094Z"
+      },
+      {
+        "sender": "user",
+        "text": "عايز اخلي @Mohamed Ahmed Owner ويتعمل assign للشقتين 297 و 298 ليه",
+        "_id": "6a6b89d0eda1cc5d4f12a8e1",
+        "timestamp": "2026-07-30T17:28:48.094Z"
+      },
+      {
+        "sender": "ai",
+        "text": "I could not find a registered user matching 'Mohamed Ahmed' in the system list. Please double-check the user's name, email, or phone number. I have staged the request to set the role to Owner and assign units 297 and 298 once the correct user is specified.",
+        "_id": "6a6b89d0eda1cc5d4f12a8e2",
+        "timestamp": "2026-07-30T17:28:48.094Z"
+      },
+      {
+        "sender": "user",
+        "text": "i want to make [Mohamed Ahmed] owner to the units 297 , 298 ",
+        "_id": "6a6b89d0eda1cc5d4f12a8e3",
+        "timestamp": "2026-07-30T17:28:48.094Z"
+      },
+      {
+        "sender": "ai",
+        "text": "I could not find a registered user matching 'Mohamed Ahmed' in the system. Please verify the user's details.",
+        "_id": "6a6b89d0eda1cc5d4f12a8e4",
+        "timestamp": "2026-07-30T17:28:48.094Z"
+      },
+      {
+        "sender": "user",
+        "text": "i want to make [Mohamed Ahmed] owner to the units 297 , 298 ",
+        "_id": "6a6b89d0eda1cc5d4f12a8e5",
+        "timestamp": "2026-07-30T17:28:48.095Z"
+      },
+      {
+        "sender": "ai",
+        "text": "I could not find a registered user matching 'Mohamed Ahmed' in the system. Please verify their details.",
+        "_id": "6a6b89d0eda1cc5d4f12a8e6",
+        "timestamp": "2026-07-30T17:28:48.095Z"
+      },
+      {
+        "sender": "user",
+        "text": "make [Omar Ayman] an owner to the units 297 and 298 ",
+        "_id": "6a6b89d0eda1cc5d4f12a8e7",
+        "timestamp": "2026-07-30T17:28:48.095Z"
+      },
+      {
+        "sender": "ai",
+        "text": "❌ An error occurred while processing your request.",
+        "_id": "6a6b89d0eda1cc5d4f12a8e8",
+        "timestamp": "2026-07-30T17:28:48.095Z"
+      },
+      {
+        "sender": "user",
+        "text": "i want to make [Mohamed Ahmed] owner to the apartments 297 , 298 ",
+        "_id": "6a6b89d0eda1cc5d4f12a8e9",
+        "timestamp": "2026-07-30T17:28:48.095Z"
+      },
+      {
+        "sender": "ai",
+        "text": "I could not find a registered user matching 'Mohamed Ahmed' in the system. Please verify their email or phone number so I can set their role to owner and assign apartments 297 and 298.",
+        "_id": "6a6b89d0eda1cc5d4f12a8ea",
+        "timestamp": "2026-07-30T17:28:48.095Z"
+      },
+      {
+        "sender": "user",
+        "text": "make [Omar Ayman] an owner to the apartments 297 and 298 ",
+        "_id": "6a6b89d0eda1cc5d4f12a8eb",
+        "timestamp": "2026-07-30T17:28:48.095Z"
+      },
+      {
+        "sender": "ai",
+        "text": "Omar Ayman has been set as an owner and assigned apartments 297 and 298.\n✅ Successfully changed role of Omar Ayman to owner and assigned 2 units.",
+        "_id": "6a6b89d0eda1cc5d4f12a8ec",
+        "timestamp": "2026-07-30T17:28:48.095Z"
+      }
+    ],
+    "isPinned": false,
+    "createdAt": "2026-07-30T17:28:48.100Z",
+    "updatedAt": "2026-07-30T17:28:48.100Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6b89d1eda1cc5d4f12a8ed",
+    "title": "محادثة سابقة",
+    "messages": [
+      {
+        "sender": "ai",
+        "text": "مرحباً بك! أنا مساعدك الذكي للإدارة. يمكنك طلب تغيير صلاحيات المستخدمين، أو تعيين وحدات لهم، أو سحب الصلاحيات.\n\nWelcome! I am your AI Admin Assistant. You can ask to change user roles, assign units, or revoke permissions.",
+        "_id": "6a6b89d1eda1cc5d4f12a8ee",
+        "timestamp": "2026-07-30T17:28:49.080Z"
+      },
+      {
+        "sender": "user",
+        "text": "عايز كل الشقق المتاحة اللي من نوع ModelU سعرها يبقى 5 مليون ",
+        "_id": "6a6b89d1eda1cc5d4f12a8ef",
+        "timestamp": "2026-07-30T17:28:49.080Z"
+      },
+      {
+        "sender": "ai",
+        "text": "عذراً، هذا الأمر يتعلق بتعديل أسعار الشقق المتاحة من نوع ModelU إلى 5 مليون جنيه، ولا يتضمن تحديد أي مستخدم لتغيير دوره أو تعيين وحدات له.",
+        "_id": "6a6b89d1eda1cc5d4f12a8f0",
+        "timestamp": "2026-07-30T17:28:49.081Z"
+      }
+    ],
+    "isPinned": false,
+    "createdAt": "2026-07-30T17:28:49.081Z",
+    "updatedAt": "2026-07-30T17:28:49.081Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6b8c9f5fcab0d0a57481c8",
+    "title": "Update apartment prices to 7M",
+    "messages": [
+      {
+        "sender": "ai",
+        "text": "Welcome! I am your AI Admin Assistant. You can ask to change user roles, assign units, revoke permissions, and modify prices.",
+        "timestamp": "2026-07-30T17:40:47.180Z",
+        "_id": "6a6b8c9f5fcab0d0a57481c9"
+      },
+      {
+        "sender": "user",
+        "text": "عايزك تخلي كل شقق المتاحه اللي من نوع مودر اس سعرها 7 مليون",
+        "_id": "6a6b94b1eda7fbd320969ed7",
+        "timestamp": "2026-07-30T18:15:13.697Z"
+      },
+      {
+        "sender": "ai",
+        "text": "I have created an action to update the price for all available Model S apartments to 7,000,000 EGP.\nSuccessfully updated the prices of 67 units.",
+        "_id": "6a6b94b1eda7fbd320969ed8",
+        "timestamp": "2026-07-30T18:15:13.697Z"
+      },
+      {
+        "sender": "user",
+        "text": "عايزك تخلي كل شقق المتاحه اللي من نوع موديل اس سعرها 4.5 مليون",
+        "_id": "6a6b94b1eda7fbd320969ed9",
+        "timestamp": "2026-07-30T18:15:13.697Z"
+      },
+      {
+        "sender": "ai",
+        "text": "I have prepared the action to update the price of all ModelS apartments to 4,500,000 EGP.\nSuccessfully updated the prices of 67 units.",
+        "_id": "6a6b94b1eda7fbd320969eda",
+        "timestamp": "2026-07-30T18:15:13.698Z"
+      },
+      {
+        "sender": "user",
+        "text": "خلي اليوزر اللي اسمه ياسر عرفه مالك الوحده 282",
+        "_id": "6a6b94b1eda7fbd320969edb",
+        "timestamp": "2026-07-30T18:15:13.698Z"
+      },
+      {
+        "sender": "ai",
+        "text": "I have updated Yasser's role to owner and assigned unit 282 to him.\n✅ Successfully changed role of Yasser to owner and assigned 1 units.",
+        "_id": "6a6b94b1eda7fbd320969edc",
+        "timestamp": "2026-07-30T18:15:13.698Z"
+      }
+    ],
+    "isPinned": false,
+    "createdAt": "2026-07-30T17:40:47.184Z",
+    "updatedAt": "2026-07-30T18:15:13.696Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7317226fee58b132463c9c",
+    "title": "New Chat",
+    "messages": [
+      {
+        "sender": "ai",
+        "text": "Welcome! I am your AI Admin Assistant. You can ask to change user roles, assign units, revoke permissions, and modify prices.",
+        "_id": "6a7317226fee58b132463c9d",
+        "timestamp": "2026-08-05T10:57:38.107Z"
+      }
+    ],
+    "isPinned": false,
+    "createdAt": "2026-08-05T10:57:38.112Z",
+    "updatedAt": "2026-08-05T10:57:38.112Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7318601ea16aeda43899e5",
+    "title": "Filter Model U apartments",
+    "messages": [
+      {
+        "sender": "ai",
+        "text": "Welcome! I am your AI Admin Assistant. You can ask to change user roles, assign units, revoke permissions, and modify prices.",
+        "timestamp": "2026-08-05T11:02:56.518Z",
+        "_id": "6a7318601ea16aeda43899e6"
+      },
+      {
+        "sender": "user",
+        "text": "خلي الشقق من المتاحه اللي من موديل يو سعرها 10 مليون",
+        "_id": "6a7318791ea16aeda43899ee",
+        "timestamp": "2026-08-05T11:03:21.019Z"
+      },
+      {
+        "sender": "ai",
+        "text": "I have set the price for Model U apartments to 10,000,000.\nSuccessfully updated the prices of 48 units.",
+        "_id": "6a7318791ea16aeda43899ef",
+        "timestamp": "2026-08-05T11:03:21.019Z"
+      }
+    ],
+    "isPinned": false,
+    "createdAt": "2026-08-05T11:02:56.518Z",
+    "updatedAt": "2026-08-05T11:03:24.762Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a7465b3d21d9efa11579de8",
+    "title": "Escalate Amgad Complaint Priority",
+    "messages": [
+      {
+        "sender": "ai",
+        "text": "Welcome! I am your AI Admin Assistant. You can ask to change user roles, assign units, revoke permissions, and modify prices.",
+        "timestamp": "2026-08-06T10:45:07.266Z",
+        "_id": "6a7465b3d21d9efa11579de9"
+      },
+      {
+        "sender": "user",
+        "text": "حول ال complaint اللي باعتها Amgad Ashraf Hamed إلي High priority ",
+        "_id": "6a74661ed21d9efa11579e02",
+        "timestamp": "2026-08-06T10:46:54.059Z"
+      },
+      {
+        "sender": "ai",
+        "text": "Managing or changing the priority of complaints is currently not supported. I can only help with changing user roles, assigning units, or bulk updating property prices by model.",
+        "_id": "6a74661ed21d9efa11579e03",
+        "timestamp": "2026-08-06T10:46:54.059Z"
+      },
+      {
+        "sender": "user",
+        "text": "قولي ايه هي صلاحياتك بالتفصيل",
+        "_id": "6a74661ed21d9efa11579e04",
+        "timestamp": "2026-08-06T10:46:54.059Z"
+      },
+      {
+        "sender": "ai",
+        "text": "As the Admin AI Assistant for El-Narges Compound, I can help you perform the following administrative tasks:\n1. Change User Roles: Promote or downgrade registered users to roles such as owner, broker, engineer, admin, or regular user.\n2. Assign Units: Assign specific unit numbers or properties to users, owners, or brokers.\n3. Bulk Price Updates: Update property prices in bulk based on their model type (e.g., ModelU, ModelX, StandAlone, TwinHouse) and property category (apartment or villa).\n\nFeel free to issue any commands related to these capabilities!",
+        "_id": "6a74661ed21d9efa11579e05",
+        "timestamp": "2026-08-06T10:46:54.059Z"
+      }
+    ],
+    "isPinned": false,
+    "createdAt": "2026-08-06T10:45:07.267Z",
+    "updatedAt": "2026-08-06T10:46:54.059Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a74666cd21d9efa11579e0b",
+    "title": "Update Type U Apartment Prices",
+    "messages": [
+      {
+        "sender": "ai",
+        "text": "Welcome! I am your AI Admin Assistant. You can ask to change user roles, assign units, revoke permissions, and modify prices.",
+        "timestamp": "2026-08-06T10:48:12.998Z",
+        "_id": "6a74666cd21d9efa11579e0c"
+      },
+      {
+        "sender": "user",
+        "text": "غير كل البارتمنز من النوع يو لسعر 9,000,000 جنيه.",
+        "timestamp": "2026-08-16T12:46:02.448Z",
+        "_id": "6a81b10af5bf0d5cc2158fd1"
+      },
+      {
+        "sender": "ai",
+        "text": "❌ An error occurred while processing your request.",
+        "timestamp": "2026-08-16T12:46:02.448Z",
+        "_id": "6a81b10af5bf0d5cc2158fd2"
+      },
+      {
+        "sender": "user",
+        "text": "غير كل الشقق لنموذج U لسعر 9000000 ",
+        "timestamp": "2026-08-16T12:46:02.448Z",
+        "_id": "6a81b10af5bf0d5cc2158fd3"
+      },
+      {
+        "sender": "ai",
+        "text": "I have created an action to update the price of all Model U apartments to 9,000,000.\nSuccessfully updated the prices of 48 units.",
+        "timestamp": "2026-08-16T12:46:02.448Z",
+        "_id": "6a81b10af5bf0d5cc2158fd4"
+      },
+      {
+        "sender": "user",
+        "text": "reject any book request to any U type apartment",
+        "timestamp": "2026-08-16T13:22:58.766Z",
+        "_id": "6a81b9b2f5bf0d5cc21591cd"
+      },
+      {
+        "sender": "ai",
+        "text": "❌ An error occurred while processing your request.",
+        "timestamp": "2026-08-16T13:22:58.767Z",
+        "_id": "6a81b9b2f5bf0d5cc21591ce"
+      },
+      {
+        "sender": "user",
+        "text": "Make the price of all ModelU apartments 5 million",
+        "_id": "6a81f298f5bf0d5cc21592b1",
+        "timestamp": "2026-08-16T17:25:44.881Z"
+      },
+      {
+        "sender": "ai",
+        "text": "❌ An error occurred while processing your request.",
+        "_id": "6a81f298f5bf0d5cc21592b2",
+        "timestamp": "2026-08-16T17:25:44.882Z"
+      }
+    ],
+    "isPinned": false,
+    "createdAt": "2026-08-06T10:48:12.998Z",
+    "updatedAt": "2026-08-16T17:25:44.879Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a82e7c266b88be0b9085e1a",
+    "title": "Update ModelU Apartment Prices",
+    "messages": [
+      {
+        "sender": "ai",
+        "text": "Welcome! I am your AI Admin Assistant. You can ask to change user roles, assign units, revoke permissions, and modify prices.",
+        "timestamp": "2026-08-17T10:51:46.218Z",
+        "_id": "6a82e7c266b88be0b9085e1b"
+      },
+      {
+        "sender": "user",
+        "text": "Make the price of all ModelU apartments 5 million",
+        "timestamp": "2026-08-17T10:52:39.670Z",
+        "_id": "6a82e7f766b88be0b9085e36"
+      },
+      {
+        "sender": "ai",
+        "text": "I have prepared the action to update the price of all ModelU apartments to 5,000,000.\nSuccessfully updated the prices of 47 units.",
+        "timestamp": "2026-08-17T10:52:39.670Z",
+        "_id": "6a82e7f766b88be0b9085e37"
+      },
+      {
+        "sender": "user",
+        "text": "Make [Hussien Mohamed]  broker",
+        "timestamp": "2026-08-17T10:52:39.670Z",
+        "_id": "6a82e7f766b88be0b9085e38"
+      },
+      {
+        "sender": "ai",
+        "text": "I have updated the role of Hussien Mohamed (hussien@gmail.com) to broker.\n🔔 Opening unit selection for Hussien Mohamed as broker...",
+        "timestamp": "2026-08-17T10:52:39.670Z",
+        "_id": "6a82e7f766b88be0b9085e39"
+      },
+      {
+        "sender": "user",
+        "text": "Make the price of all Model X apartments 5 million",
+        "_id": "6a8449d30b926b3335ea64ad",
+        "timestamp": "2026-08-18T12:02:27.762Z"
+      }
+    ],
+    "isPinned": false,
+    "createdAt": "2026-08-17T10:51:46.219Z",
+    "updatedAt": "2026-08-18T12:02:27.761Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,2369 @@
+[
+  {
+    "_id": "6a607a2d4a95440fc7a491f3",
+    "meterId": 327,
+    "buildingGlobalId": "98d8ab72-780f-454f-a7b8-579e7caaa243",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491f7",
+    "meterId": 331,
+    "buildingGlobalId": "4214aded-3e24-4837-999a-49be02436d16",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49209",
+    "meterId": 349,
+    "buildingGlobalId": "d9c8a945-ab67-4156-8df0-d6a2d605be81",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49214",
+    "meterId": 360,
+    "buildingGlobalId": "1f8999b6-3064-468c-bcb0-8092d329f50d",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49226",
+    "meterId": 378,
+    "buildingGlobalId": "0e5499f9-397f-4136-84c2-03f9fa9034a2",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4922e",
+    "meterId": 386,
+    "buildingGlobalId": "4efe7d4d-e93f-4ba7-8813-884d1419a984",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4926c",
+    "meterId": 448,
+    "buildingGlobalId": "aab83e0e-fffd-46cc-a25b-d7fc1778d727",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49287",
+    "meterId": 475,
+    "buildingGlobalId": "c3b1b99f-071e-4018-bb17-dd6aad649217",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49288",
+    "meterId": 476,
+    "buildingGlobalId": "be0c1d58-88c4-4062-bc1e-85bb5fbb131b",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4928c",
+    "meterId": 480,
+    "buildingGlobalId": "f721c091-c172-40bf-9e11-ad3eb365ff64",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492a8",
+    "meterId": 508,
+    "buildingGlobalId": "d3ee4e5e-c185-4f18-b70a-d5d8a136287b",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492af",
+    "meterId": 515,
+    "buildingGlobalId": "886a680a-86f6-4938-acc2-029ed5ca6db9",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492b9",
+    "meterId": 525,
+    "buildingGlobalId": "1e98e91a-540d-4eaa-9d70-be5fbe61a91e",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492e1",
+    "meterId": 565,
+    "buildingGlobalId": "79361698-9650-4355-a2a7-60d78699b5b1",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492e5",
+    "meterId": 569,
+    "buildingGlobalId": "53880098-b168-4971-8ce6-fd2e33a9a2ce",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492e8",
+    "meterId": 573,
+    "buildingGlobalId": "bff64c0b-d7fd-441e-8395-94d17d11717f",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491ed",
+    "meterId": 321,
+    "buildingGlobalId": "a2c44dbf-194d-47dd-bd0b-3511461e1800",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.607Z",
+    "updatedAt": "2026-07-22T08:07:09.607Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49213",
+    "meterId": 359,
+    "buildingGlobalId": "1d35a1c5-2242-48e3-a469-06f4452d59e8",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4922b",
+    "meterId": 383,
+    "buildingGlobalId": "54a393e8-7562-4f2c-af9e-52a2eab31090",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49237",
+    "meterId": 395,
+    "buildingGlobalId": "5e475ba4-3cd7-4b4c-b225-f80b2d52fb2b",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4923b",
+    "meterId": 399,
+    "buildingGlobalId": "d6d8282e-b70c-4bc3-bee6-f79740970393",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49246",
+    "meterId": 410,
+    "buildingGlobalId": "630cd164-68a1-46fd-8484-fab4592689a8",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49258",
+    "meterId": 428,
+    "buildingGlobalId": "041ba0ad-5596-4985-8e49-37eefd9fa26f",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49269",
+    "meterId": 445,
+    "buildingGlobalId": "c00499f2-9f48-44cc-8f6b-2b2957b88d70",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49270",
+    "meterId": 452,
+    "buildingGlobalId": "756ab698-59eb-49c8-9ff0-d8724bbff4b7",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4929c",
+    "meterId": 496,
+    "buildingGlobalId": "843ded62-05c6-4d3b-ad5a-30129912cd6c",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492d0",
+    "meterId": 548,
+    "buildingGlobalId": "8d349ef0-28d6-4bca-9028-8ec6bee98af9",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492e7",
+    "meterId": 572,
+    "buildingGlobalId": "bff64c0b-d7fd-441e-8395-94d17d11717f",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492e9",
+    "meterId": 576,
+    "buildingGlobalId": "dc2cdee0-1730-4b8e-9e19-409e1c62e8a4",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491ea",
+    "meterId": 318,
+    "buildingGlobalId": "dc2cdee0-1730-4b8e-9e19-409e1c62e8a4",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.607Z",
+    "updatedAt": "2026-07-22T08:07:09.607Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491ec",
+    "meterId": 320,
+    "buildingGlobalId": "10cb95f5-90de-4e3c-98e1-efd22eddfa78",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.607Z",
+    "updatedAt": "2026-07-22T08:07:09.607Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49201",
+    "meterId": 341,
+    "buildingGlobalId": "ba0e05e8-5936-41ba-9799-3618809caa0a",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4920a",
+    "meterId": 350,
+    "buildingGlobalId": "d48c7570-9a3f-4fb3-99a5-b0fbf3b3a9c3",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49210",
+    "meterId": 356,
+    "buildingGlobalId": "cbbb569e-5bbf-4ad7-a969-97d1fab39de1",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49229",
+    "meterId": 381,
+    "buildingGlobalId": "c7dd5152-dc51-4a59-a8e1-8e1605625343",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4924d",
+    "meterId": 417,
+    "buildingGlobalId": "23fa812e-1738-414b-bb2f-0f5218594247",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49251",
+    "meterId": 421,
+    "buildingGlobalId": "aeef6f90-ffd8-4ac7-a4b5-53931843669c",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49274",
+    "meterId": 456,
+    "buildingGlobalId": "d0422887-c435-4b84-ae60-16a15c5c06f8",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49277",
+    "meterId": 459,
+    "buildingGlobalId": "f9f52ca0-7581-4b50-a324-1c542cfd2f40",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4928a",
+    "meterId": 478,
+    "buildingGlobalId": "5562d652-60cd-49cc-97e2-0d6a7a6685db",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492b8",
+    "meterId": 524,
+    "buildingGlobalId": "e467e3e9-d9e4-4b5c-b2be-681c4c1dbab2",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492bb",
+    "meterId": 527,
+    "buildingGlobalId": "71807056-95b1-4f57-ad30-604b31654d33",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492d3",
+    "meterId": 551,
+    "buildingGlobalId": "72bcf23e-f570-4e4a-b2e1-83636c0b0a92",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492d7",
+    "meterId": 555,
+    "buildingGlobalId": "5fc2cd71-9454-4fb5-9685-b73279509bb2",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492e4",
+    "meterId": 568,
+    "buildingGlobalId": "e386bcf8-2ae9-40fb-81c8-821b3c8c8ed6",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492ea",
+    "meterId": 577,
+    "buildingGlobalId": "dc2cdee0-1730-4b8e-9e19-409e1c62e8a4",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49236",
+    "meterId": 394,
+    "buildingGlobalId": "88dc6aaf-ffb0-44ab-92bc-2103dbcbb27d",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49242",
+    "meterId": 406,
+    "buildingGlobalId": "1a04f093-4cb2-4e47-b604-c132c9128503",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49259",
+    "meterId": 429,
+    "buildingGlobalId": "417c1fe7-ad0e-4044-ab65-9489a74251cb",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4925d",
+    "meterId": 433,
+    "buildingGlobalId": "486c7a1f-b586-457c-835e-ea14bf004500",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49282",
+    "meterId": 470,
+    "buildingGlobalId": "b94dc7e7-6ccd-4f09-a3d8-765a8bb0e88a",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492a0",
+    "meterId": 500,
+    "buildingGlobalId": "b01634b5-1e03-4f14-9348-1eb550669474",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492be",
+    "meterId": 530,
+    "buildingGlobalId": "53bdc7b3-bfa3-48db-bc6b-57e09e8c9ffb",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492d2",
+    "meterId": 550,
+    "buildingGlobalId": "d688ff66-af59-4933-90bd-aed6784a5b3a",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492d4",
+    "meterId": 552,
+    "buildingGlobalId": "ca4960e5-f86d-4039-bfb9-a228b4646ddd",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491fc",
+    "meterId": 336,
+    "buildingGlobalId": "2617b695-77c4-45fe-82f3-0c041aa50a0b",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49220",
+    "meterId": 372,
+    "buildingGlobalId": "9446a319-a25b-4a61-8ff0-10ac24f603ce",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49232",
+    "meterId": 390,
+    "buildingGlobalId": "2d630495-5a80-413c-a5b7-9d330cbcfa2e",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49273",
+    "meterId": 455,
+    "buildingGlobalId": "180e88b8-f457-4b51-9c27-3b2682ec32ba",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49278",
+    "meterId": 460,
+    "buildingGlobalId": "67a68513-443d-436f-b1b0-87910309faa8",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49299",
+    "meterId": 493,
+    "buildingGlobalId": "4c439704-9898-4631-9c6a-45f7ba1e61ca",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492a5",
+    "meterId": 505,
+    "buildingGlobalId": "d7b1b4f9-3ee8-4793-ae18-08e37b4fb730",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492ab",
+    "meterId": 511,
+    "buildingGlobalId": "d5e804f6-befe-4d77-81ad-b3e99c46376c",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492c9",
+    "meterId": 541,
+    "buildingGlobalId": "efcc0841-a943-4aee-9afc-5794463d8022",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491e8",
+    "meterId": 316,
+    "buildingGlobalId": "bff64c0b-d7fd-441e-8395-94d17d11717f",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.606Z",
+    "updatedAt": "2026-07-22T08:07:09.606Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491f0",
+    "meterId": 324,
+    "buildingGlobalId": "e60af8e7-b01b-4a2e-93f1-2c9d5d0bab58",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49217",
+    "meterId": 363,
+    "buildingGlobalId": "1c7d9e5c-6862-49a8-aabd-8b1fe97b4b68",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4921d",
+    "meterId": 369,
+    "buildingGlobalId": "edc915ba-0b32-4fb7-aab3-12d9cca9797d",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49224",
+    "meterId": 376,
+    "buildingGlobalId": "6550f73c-c188-431f-98a5-a62d49a8647e",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4925a",
+    "meterId": 430,
+    "buildingGlobalId": "1226d305-a7df-4729-ac16-926fa9a78079",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4927b",
+    "meterId": 463,
+    "buildingGlobalId": "ed4fe155-9fea-4dce-a618-54b1d784fe6f",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4928f",
+    "meterId": 483,
+    "buildingGlobalId": "90bbd89d-745f-4c55-8f97-7db6e8b5c20c",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492c1",
+    "meterId": 533,
+    "buildingGlobalId": "74ee5d82-256c-4a54-ab01-eea53ec62743",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492c7",
+    "meterId": 539,
+    "buildingGlobalId": "11c2bedb-5ff0-45ac-bf0c-a2dc6b4978e6",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491f2",
+    "meterId": 326,
+    "buildingGlobalId": "eadd93ef-1e33-4856-b2d1-6b53c5981da5",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491f9",
+    "meterId": 333,
+    "buildingGlobalId": "418d8d3d-182d-4194-9971-3619be284dfe",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4921b",
+    "meterId": 367,
+    "buildingGlobalId": "bbfc27dc-af6e-4ebf-974d-b95999e1a65e",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4922d",
+    "meterId": 385,
+    "buildingGlobalId": "6ed118a2-aafd-4ac3-9d19-20a27662258a",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49230",
+    "meterId": 388,
+    "buildingGlobalId": "618e18c8-5681-455c-8715-1c2390136bcc",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49231",
+    "meterId": 389,
+    "buildingGlobalId": "460d86ba-083f-4002-aab9-168222ccc3d2",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4923f",
+    "meterId": 403,
+    "buildingGlobalId": "8da3e961-4fb3-4e6d-89ec-0e150d4833fb",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49245",
+    "meterId": 409,
+    "buildingGlobalId": "131cf0f0-03e5-432d-9d5b-10d76a3518ff",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49249",
+    "meterId": 413,
+    "buildingGlobalId": "3acf6685-ff49-46c5-9714-5154a9297dca",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4924b",
+    "meterId": 415,
+    "buildingGlobalId": "7215ce0d-e02a-4d4b-9a9b-b0132547ce98",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4925b",
+    "meterId": 431,
+    "buildingGlobalId": "d7dfe6e9-bd4f-4a33-ba21-3a3aa29dc022",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4926a",
+    "meterId": 446,
+    "buildingGlobalId": "47e47f54-4c2b-40d7-b8c9-a4280b39e3ae",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4928d",
+    "meterId": 481,
+    "buildingGlobalId": "2a4216c0-b9db-444e-b96b-fde46decbe90",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49295",
+    "meterId": 489,
+    "buildingGlobalId": "06cb67e3-d390-40ff-a59c-c4eca64adaaa",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4929f",
+    "meterId": 499,
+    "buildingGlobalId": "99d47007-15fa-4dd1-86c5-2177033419bd",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492ae",
+    "meterId": 514,
+    "buildingGlobalId": "0807669f-c197-48d6-9ebf-dacdbe634b22",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492cd",
+    "meterId": 545,
+    "buildingGlobalId": "ff7652a8-ea48-4729-9f81-4f563ff2b7b4",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492e6",
+    "meterId": 571,
+    "buildingGlobalId": "324758f8-3d38-4f67-ab4b-4e4d088f9855",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491eb",
+    "meterId": 319,
+    "buildingGlobalId": "294b8ee9-53ac-4db5-b2d1-eb8e441c395f",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.607Z",
+    "updatedAt": "2026-07-22T08:07:09.607Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49204",
+    "meterId": 344,
+    "buildingGlobalId": "b35fb95b-5fa9-4aa9-8085-1ca4d7ddde4e",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49228",
+    "meterId": 380,
+    "buildingGlobalId": "c320a447-b590-43c5-8f2a-cadedd4a4a57",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49238",
+    "meterId": 396,
+    "buildingGlobalId": "be1d1b7c-9087-4987-a060-0d2e9fbb1f53",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4924c",
+    "meterId": 416,
+    "buildingGlobalId": "333e25d9-5a69-4c76-bb18-d6d4355d8db2",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49253",
+    "meterId": 423,
+    "buildingGlobalId": "1383e22c-88e0-4de9-bdfc-b8f95565db0e",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4925f",
+    "meterId": 435,
+    "buildingGlobalId": "f4de6711-145b-4b30-8dce-8a8fb3f7195b",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49262",
+    "meterId": 438,
+    "buildingGlobalId": "10619b69-58f6-413c-902d-98f2dc718347",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4926d",
+    "meterId": 449,
+    "buildingGlobalId": "b64f2f25-6ee1-4f75-8b01-d1fb2b13a970",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49285",
+    "meterId": 473,
+    "buildingGlobalId": "a0ab8a14-aa3f-45bb-88a4-569c1b03b80c",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49286",
+    "meterId": 474,
+    "buildingGlobalId": "349624d8-9e75-481b-80a4-ab53b73dc204",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492a1",
+    "meterId": 501,
+    "buildingGlobalId": "2e57b667-c69c-4977-800d-0e7a8e2cdbc9",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492a9",
+    "meterId": 509,
+    "buildingGlobalId": "ce808539-b374-4d52-ab6d-795b19ab7e16",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492c3",
+    "meterId": 535,
+    "buildingGlobalId": "1d86a45d-7ca8-4f23-9972-c729b3269baa",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492c6",
+    "meterId": 538,
+    "buildingGlobalId": "3143eb0d-dc59-4e8b-a4f7-fe8f8409d8c5",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492cb",
+    "meterId": 543,
+    "buildingGlobalId": "b61f8b1a-ef2e-4ade-bd33-fca01aa25981",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492d1",
+    "meterId": 549,
+    "buildingGlobalId": "ea948cf6-b1e3-453a-95cf-e73089c29f41",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49206",
+    "meterId": 346,
+    "buildingGlobalId": "7f2f87e6-9a3e-4a0d-be07-565aeede2fc7",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4921f",
+    "meterId": 371,
+    "buildingGlobalId": "252dda69-d32b-44ee-8761-38b47bc779da",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49223",
+    "meterId": 375,
+    "buildingGlobalId": "420aed5f-9b9b-465c-842e-f2f5fdffce8c",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49267",
+    "meterId": 443,
+    "buildingGlobalId": "5e11e123-9a40-4769-8397-ab6615286be1",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49272",
+    "meterId": 454,
+    "buildingGlobalId": "8da95639-8420-406d-b163-b455c108b941",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49276",
+    "meterId": 458,
+    "buildingGlobalId": "7bf574f2-bd0c-421b-a1ef-2eaca1fe36a0",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4927d",
+    "meterId": 465,
+    "buildingGlobalId": "03081611-3518-4085-bc74-72f6437b4f09",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4928e",
+    "meterId": 482,
+    "buildingGlobalId": "caec8915-4c71-45b2-84b9-a09f3cd7be51",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4929d",
+    "meterId": 497,
+    "buildingGlobalId": "dd3fd952-579c-4528-85ec-351581eb1840",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492bc",
+    "meterId": 528,
+    "buildingGlobalId": "d47b7ff4-2e1d-41b7-b0a8-04d34e708974",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492c2",
+    "meterId": 534,
+    "buildingGlobalId": "b97e3ca8-20de-412f-b843-88db8a5c0bd1",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492d6",
+    "meterId": 554,
+    "buildingGlobalId": "783fc9a6-66e4-4a38-9945-d7d00807d2bb",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492e2",
+    "meterId": 566,
+    "buildingGlobalId": "a45067f1-9945-4095-84df-44710f868aca",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491f6",
+    "meterId": 330,
+    "buildingGlobalId": "54f6a316-d942-491c-990c-0eac97e3b521",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49202",
+    "meterId": 342,
+    "buildingGlobalId": "f26edd2b-25c4-4935-80be-942f9cb43354",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4920c",
+    "meterId": 352,
+    "buildingGlobalId": "d12ea457-ce6b-4624-9c5b-ab41e0c30bf3",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49218",
+    "meterId": 364,
+    "buildingGlobalId": "e9c69c07-b590-4154-9138-9f99272b6b99",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4922a",
+    "meterId": 382,
+    "buildingGlobalId": "32d1205a-d57e-4aa9-abcf-27e19f1f138d",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49247",
+    "meterId": 411,
+    "buildingGlobalId": "528e1d5b-7b64-45b7-83ed-06fb7cdf9d70",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49254",
+    "meterId": 424,
+    "buildingGlobalId": "2da2c47c-b365-481a-b239-965489c93605",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4925e",
+    "meterId": 434,
+    "buildingGlobalId": "0ac87697-83eb-48d6-ac47-2ebbf2f9ff92",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49260",
+    "meterId": 436,
+    "buildingGlobalId": "200e034e-bcbc-45ce-9682-1196e3ef1370",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4926b",
+    "meterId": 447,
+    "buildingGlobalId": "107cc652-9361-4856-b90a-5f9497b3e709",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49279",
+    "meterId": 461,
+    "buildingGlobalId": "774ea293-4f9d-422b-8145-50d33da3d3e2",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49294",
+    "meterId": 488,
+    "buildingGlobalId": "1c25c79f-43de-4531-8d29-541763bb6e5c",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4929b",
+    "meterId": 495,
+    "buildingGlobalId": "f42c4a83-a32e-498f-91d6-9bb6eab5005a",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4929e",
+    "meterId": 498,
+    "buildingGlobalId": "e43247e3-e564-4053-8293-4fa92c213c6c",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492aa",
+    "meterId": 510,
+    "buildingGlobalId": "77c82cd8-a7a5-46e4-86a4-2faf5313cf43",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492c5",
+    "meterId": 537,
+    "buildingGlobalId": "f759572a-0178-4b5d-8253-24621c393c83",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492d5",
+    "meterId": 553,
+    "buildingGlobalId": "4431cc34-935c-4756-ba0a-8f7618eb0731",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492da",
+    "meterId": 558,
+    "buildingGlobalId": "5831e790-b111-419a-9871-b841a7f21686",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492db",
+    "meterId": 559,
+    "buildingGlobalId": "94103745-39a9-4157-a358-fe4690c501a4",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492dc",
+    "meterId": 560,
+    "buildingGlobalId": "8a54b879-7074-4f79-b4f9-683beb21b2d4",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491ee",
+    "meterId": 322,
+    "buildingGlobalId": "1a49fd80-38c9-4411-a6ff-e34ac4f1168f",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.607Z",
+    "updatedAt": "2026-07-22T08:07:09.607Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491f5",
+    "meterId": 329,
+    "buildingGlobalId": "65ae733c-a2f2-4210-ae09-8500889e033f",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49207",
+    "meterId": 347,
+    "buildingGlobalId": "684d569a-3ee9-4ea3-87b1-199505a86cee",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4920b",
+    "meterId": 351,
+    "buildingGlobalId": "cd208a69-45fe-4210-8b50-78fea69e1222",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49219",
+    "meterId": 365,
+    "buildingGlobalId": "35864dc9-ff60-431c-b0af-d023f8fe2aa9",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4922c",
+    "meterId": 384,
+    "buildingGlobalId": "7d8cf3a7-c691-43d5-bb86-c76990bbf7b7",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49239",
+    "meterId": 397,
+    "buildingGlobalId": "d9f5d4ea-f70e-4790-be07-d02d71d514ea",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4923c",
+    "meterId": 400,
+    "buildingGlobalId": "bec3693a-3363-44a4-b7c8-39ad49e6e8ba",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4923d",
+    "meterId": 401,
+    "buildingGlobalId": "304278b3-f6af-4674-abee-59fc43674a23",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49244",
+    "meterId": 408,
+    "buildingGlobalId": "74a37a50-77a2-4e2b-b4e6-2592536ec8b7",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49252",
+    "meterId": 422,
+    "buildingGlobalId": "2f7cdcb9-f084-4f7c-9535-e72288bf7d46",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49255",
+    "meterId": 425,
+    "buildingGlobalId": "2b679165-6ad7-40a2-abdf-638f3cc69c97",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4926f",
+    "meterId": 451,
+    "buildingGlobalId": "7da7b2c5-8424-4ced-b790-34364d19d1c1",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49271",
+    "meterId": 453,
+    "buildingGlobalId": "09f1b1b5-7053-4900-b498-5ee1259a1393",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4927a",
+    "meterId": 462,
+    "buildingGlobalId": "45c4904e-9583-4f06-89aa-17ede877b799",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4927c",
+    "meterId": 464,
+    "buildingGlobalId": "db8e79d3-10ef-46f4-8146-674c1b2724ae",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49293",
+    "meterId": 487,
+    "buildingGlobalId": "df7341ff-cfba-40f1-b5e4-90547c057237",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49296",
+    "meterId": 490,
+    "buildingGlobalId": "db219f2d-4513-47ac-afcc-9b539e871426",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4929a",
+    "meterId": 494,
+    "buildingGlobalId": "386bf450-e887-4afa-bba2-a34bc45cf0a1",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492a7",
+    "meterId": 507,
+    "buildingGlobalId": "a2cc5ca6-b6e3-43ce-bfae-e2c0161d85fa",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492ba",
+    "meterId": 526,
+    "buildingGlobalId": "a199c9d3-8126-4d6a-afe2-d87a1f77b720",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492bd",
+    "meterId": 529,
+    "buildingGlobalId": "77c15a86-5f39-4670-8c8c-015a603619ad",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492d8",
+    "meterId": 556,
+    "buildingGlobalId": "22f06118-6ffc-402a-babd-fadb801b95c8",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492d9",
+    "meterId": 557,
+    "buildingGlobalId": "7d4ab88d-4a7b-4af0-9090-1a102f601ffa",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492ee",
+    "meterId": 583,
+    "buildingGlobalId": "fc67d55f-a88b-483a-bab0-e324c7cb70b1",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491fa",
+    "meterId": 334,
+    "buildingGlobalId": "e22e7651-38d3-4664-86b3-92fdf7e39410",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49200",
+    "meterId": 340,
+    "buildingGlobalId": "c48b997d-ced2-44fc-b99b-972eae942f99",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4920f",
+    "meterId": 355,
+    "buildingGlobalId": "307afef3-e80d-47af-8dbb-8285f9b9e8f2",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4923a",
+    "meterId": 398,
+    "buildingGlobalId": "f7f9c3d1-2bee-43ab-8590-6fbac6f5c501",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4924e",
+    "meterId": 418,
+    "buildingGlobalId": "fd60f68e-8570-4849-8f2a-5f027a7cce13",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49266",
+    "meterId": 442,
+    "buildingGlobalId": "51032941-a29b-4f63-94c5-1a94b67e711d",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492a6",
+    "meterId": 506,
+    "buildingGlobalId": "31e19d14-1945-431d-996c-9dd05606dd3a",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492c0",
+    "meterId": 532,
+    "buildingGlobalId": "926b9dc2-06c1-4f27-8641-8371020d04ab",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492cc",
+    "meterId": 544,
+    "buildingGlobalId": "4448872c-cda2-4f04-a408-7b08b9c36c4c",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492de",
+    "meterId": 562,
+    "buildingGlobalId": "368c723d-9539-4077-9d5a-1a55ebd549bf",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49208",
+    "meterId": 348,
+    "buildingGlobalId": "231ca7f6-b952-4d6a-ad5c-173ab237699f",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4920d",
+    "meterId": 353,
+    "buildingGlobalId": "0c182b34-b54c-492c-a4a4-1308c552dc3c",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49222",
+    "meterId": 374,
+    "buildingGlobalId": "d9a5628c-3f29-4d85-b082-78530f3e8fc8",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49233",
+    "meterId": 391,
+    "buildingGlobalId": "ccc22512-a8b1-4a9d-8f20-fdc72de1a922",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49235",
+    "meterId": 393,
+    "buildingGlobalId": "6037d0e6-0e63-4453-a22d-309384ce44f9",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49240",
+    "meterId": 404,
+    "buildingGlobalId": "f22e6cd2-464c-4ba9-bcab-64a692adb169",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49243",
+    "meterId": 407,
+    "buildingGlobalId": "9b8aecee-e9f3-48c2-88d0-9687e5c7db48",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49248",
+    "meterId": 412,
+    "buildingGlobalId": "55a53a23-eec4-43f3-96c9-0562ab551638",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49250",
+    "meterId": 420,
+    "buildingGlobalId": "4f78ac0b-a8da-450a-b39c-f41eec835d01",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49265",
+    "meterId": 441,
+    "buildingGlobalId": "5efe16da-b45e-4209-95df-a6ed36b53e75",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4927f",
+    "meterId": 467,
+    "buildingGlobalId": "948c7af8-a360-4aa5-bd87-0db50609c85b",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49281",
+    "meterId": 469,
+    "buildingGlobalId": "c5de428f-978f-4aac-8d22-f44426c0f3f8",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49290",
+    "meterId": 484,
+    "buildingGlobalId": "bb1be001-7312-4a28-8f50-996d9eb13f6f",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49298",
+    "meterId": 492,
+    "buildingGlobalId": "e7e006fe-5592-4e30-9961-7cf247097695",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492b2",
+    "meterId": 518,
+    "buildingGlobalId": "e4c2bef5-5816-4eee-b1e9-5aff9e3ac4b2",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492b6",
+    "meterId": 522,
+    "buildingGlobalId": "c1132a55-52bd-473b-91d9-b97ef415f1cb",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492c4",
+    "meterId": 536,
+    "buildingGlobalId": "e3e4212d-83ba-43d3-80da-5b40328c45e3",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492ce",
+    "meterId": 546,
+    "buildingGlobalId": "4125252b-a3e4-48ad-9499-c3e871778ac6",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492df",
+    "meterId": 563,
+    "buildingGlobalId": "bc080343-f248-442e-9d37-bfd3134d6280",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492e0",
+    "meterId": 564,
+    "buildingGlobalId": "9b978085-0909-4f02-b0a1-0e8d05e91ab7",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491e9",
+    "meterId": 317,
+    "buildingGlobalId": "e63e18b2-eaf5-427d-9a4c-6a9661e87771",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.607Z",
+    "updatedAt": "2026-07-22T08:07:09.607Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491ef",
+    "meterId": 323,
+    "buildingGlobalId": "746101f2-1271-4f50-adc2-4d05277fedae",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491f1",
+    "meterId": 325,
+    "buildingGlobalId": "2fd1a5cf-0efc-4988-85e2-d83c128ba96e",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491f4",
+    "meterId": 328,
+    "buildingGlobalId": "aacc88a6-88b0-4d5d-96c9-d4050699af64",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491fb",
+    "meterId": 335,
+    "buildingGlobalId": "650ac586-0bed-432a-aeb9-fdf85c078845",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491fe",
+    "meterId": 338,
+    "buildingGlobalId": "e9c1e2a0-20ea-410f-a451-3138ef24ee4b",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491ff",
+    "meterId": 339,
+    "buildingGlobalId": "0c04543b-df9b-4b76-a3ad-733c163e048b",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4921c",
+    "meterId": 368,
+    "buildingGlobalId": "3fa16b13-f267-46e8-8b2f-c01c5135b72b",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49234",
+    "meterId": 392,
+    "buildingGlobalId": "af57a9cf-2e08-43e4-b4ed-42745dcae4fb",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4924f",
+    "meterId": 419,
+    "buildingGlobalId": "7535bfd6-6f40-464c-b810-70c26bd52e80",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49256",
+    "meterId": 426,
+    "buildingGlobalId": "4a517e44-131f-430d-940b-8cf6863d4e18",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49263",
+    "meterId": 439,
+    "buildingGlobalId": "20abef33-1908-43b6-9138-c70bb9f9c168",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49268",
+    "meterId": 444,
+    "buildingGlobalId": "77840fdd-d55f-4ab5-846b-573d27708541",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49280",
+    "meterId": 468,
+    "buildingGlobalId": "49632cb0-fd89-4987-b16a-73c1d9a37289",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49283",
+    "meterId": 471,
+    "buildingGlobalId": "fe5b74f6-b1eb-4fb7-ac29-cc3331738fbc",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49297",
+    "meterId": 491,
+    "buildingGlobalId": "e61de837-7655-4b53-81ba-168b30f8918d",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492a3",
+    "meterId": 503,
+    "buildingGlobalId": "dc02ca4b-f83c-4ce5-ba20-caa5272e7344",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492a4",
+    "meterId": 504,
+    "buildingGlobalId": "08951aeb-4e38-43f0-97cf-2a9d2f13183b",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492ac",
+    "meterId": 512,
+    "buildingGlobalId": "ae58c346-6c2b-4135-8e38-716988175f40",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492b0",
+    "meterId": 516,
+    "buildingGlobalId": "a2a9a4da-bb51-4d2b-906e-0639fb92462c",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492b1",
+    "meterId": 517,
+    "buildingGlobalId": "f3eec3d7-fcdf-442b-ae5b-38f899b24ac2",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492c8",
+    "meterId": 540,
+    "buildingGlobalId": "225fda02-dfb5-4bdb-b36d-d8a64af7b166",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492ca",
+    "meterId": 542,
+    "buildingGlobalId": "41e1684e-98e2-4612-831d-25ddf19c2ff0",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492e3",
+    "meterId": 567,
+    "buildingGlobalId": "bcec88d3-9d52-4b6c-8f5f-8aa872883e2a",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491f8",
+    "meterId": 332,
+    "buildingGlobalId": "324758f8-3d38-4f67-ab4b-4e4d088f9855",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a491fd",
+    "meterId": 337,
+    "buildingGlobalId": "4de9e53c-ae43-4e2c-bef4-86d351c7c0ef",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49203",
+    "meterId": 343,
+    "buildingGlobalId": "110c80e6-8613-4474-afb7-a89267db51f3",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49205",
+    "meterId": 345,
+    "buildingGlobalId": "f06cf11d-66e9-400e-bd2a-7f872ffa1393",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49211",
+    "meterId": 357,
+    "buildingGlobalId": "81d8efe1-123b-4107-8772-6fba58636561",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49212",
+    "meterId": 358,
+    "buildingGlobalId": "c3ae740f-4c82-440a-9153-e1b2d1ec2992",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49216",
+    "meterId": 362,
+    "buildingGlobalId": "9c6e3530-f5da-4ccd-938e-de47d7177fd5",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4921e",
+    "meterId": 370,
+    "buildingGlobalId": "6b54858b-b830-4c66-b5cb-f1dcdd221bd6",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49221",
+    "meterId": 373,
+    "buildingGlobalId": "d7f2bed2-ef31-4928-8932-61ead8678788",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49225",
+    "meterId": 377,
+    "buildingGlobalId": "b82bd74d-f280-48cb-a111-bf580725e2cf",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4924a",
+    "meterId": 414,
+    "buildingGlobalId": "29906633-1758-4c6d-92a1-919e964213b6",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49261",
+    "meterId": 437,
+    "buildingGlobalId": "c0596351-8874-44ea-b630-591a0e66b89d",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4926e",
+    "meterId": 450,
+    "buildingGlobalId": "fd19f011-08ba-4182-a4c3-6b2e87871385",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49275",
+    "meterId": 457,
+    "buildingGlobalId": "37450446-52c7-474a-ba1a-b1269e0bb754",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49284",
+    "meterId": 472,
+    "buildingGlobalId": "62062f67-0d23-449e-9d90-86bac1679722",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49289",
+    "meterId": 477,
+    "buildingGlobalId": "510cfcb0-9fb5-4915-972d-0deee3892812",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49291",
+    "meterId": 485,
+    "buildingGlobalId": "7ba9d948-dc45-4d46-8e9c-badb35eb905a",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49292",
+    "meterId": 486,
+    "buildingGlobalId": "c21e69bd-08a4-4d8e-a29a-0f95b2911fc7",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492a2",
+    "meterId": 502,
+    "buildingGlobalId": "cd3c960f-232e-452a-9756-feac73042d16",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492ad",
+    "meterId": 513,
+    "buildingGlobalId": "3abf4b64-1a44-4d57-9504-6483c9e8184c",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492b3",
+    "meterId": 519,
+    "buildingGlobalId": "5c882ed1-5df9-4081-9ddf-a8b9915924cc",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492b4",
+    "meterId": 520,
+    "buildingGlobalId": "4b8f104b-daf1-4708-a52b-01de4df59b2a",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492b7",
+    "meterId": 523,
+    "buildingGlobalId": "80439379-bfe2-471b-b476-64f727b8c8c3",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492bf",
+    "meterId": 531,
+    "buildingGlobalId": "93316b66-9009-4357-863f-297907873b24",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492eb",
+    "meterId": 578,
+    "buildingGlobalId": "10cb95f5-90de-4e3c-98e1-efd22eddfa78",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492ec",
+    "meterId": 581,
+    "buildingGlobalId": "2c860b45-58f3-4dd4-893f-d1b998034a7c",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492ed",
+    "meterId": 582,
+    "buildingGlobalId": "8111e848-4ac3-4fec-97e7-e88661041257",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4920e",
+    "meterId": 354,
+    "buildingGlobalId": "ba2c6f90-b520-41fc-8387-e07457d90f4f",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49215",
+    "meterId": 361,
+    "buildingGlobalId": "c2bfc328-84c5-426d-a0c7-f559688d20f3",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4921a",
+    "meterId": 366,
+    "buildingGlobalId": "42f8c0dc-daa1-437b-81e5-9d4008ddc916",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49227",
+    "meterId": 379,
+    "buildingGlobalId": "cd3bc713-006f-4dc5-a7ee-6148cdee3012",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.608Z",
+    "updatedAt": "2026-07-22T08:07:09.608Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4922f",
+    "meterId": 387,
+    "buildingGlobalId": "99f6426e-cdea-4b3c-a315-d8267c077c56",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4923e",
+    "meterId": 402,
+    "buildingGlobalId": "836a3245-91ff-40ff-81fd-b0b89dc2f3c9",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49241",
+    "meterId": 405,
+    "buildingGlobalId": "03bdc9d0-b05f-46c2-867e-7e3bd5e6e78f",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49257",
+    "meterId": 427,
+    "buildingGlobalId": "83d3ae70-4909-4e03-9976-7f10461100c7",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4925c",
+    "meterId": 432,
+    "buildingGlobalId": "d563b0d9-975c-4f0b-bafe-eecf409bfb0c",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a49264",
+    "meterId": 440,
+    "buildingGlobalId": "40860519-0d9c-48e5-a296-b93b1d86bd05",
+    "buildingType": "building",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.609Z",
+    "updatedAt": "2026-07-22T08:07:09.609Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4927e",
+    "meterId": 466,
+    "buildingGlobalId": "5fba61a3-3c7b-4282-aa8a-76e12531faec",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a4928b",
+    "meterId": 479,
+    "buildingGlobalId": "4ec5102d-0bfc-4bcf-a51a-b58871646a38",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.610Z",
+    "updatedAt": "2026-07-22T08:07:09.610Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492b5",
+    "meterId": 521,
+    "buildingGlobalId": "0b6cca69-d4cd-4004-b5d4-df8aab4a5c7b",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492cf",
+    "meterId": 547,
+    "buildingGlobalId": "fbf27aa9-f2bd-4f30-8bab-aeb2e727d595",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  },
+  {
+    "_id": "6a607a2d4a95440fc7a492dd",
+    "meterId": 561,
+    "buildingGlobalId": "7d6ff5e7-d7d6-4f8e-bb2c-f1ca904d01ca",
+    "buildingType": "villa",
+    "__v": 0,
+    "createdAt": "2026-07-22T08:07:09.611Z",
+    "updatedAt": "2026-07-22T08:07:09.611Z"
+  }
+]

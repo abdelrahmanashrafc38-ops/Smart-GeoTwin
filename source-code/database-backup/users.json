@@ -1,0 +1,1162 @@
+[
+  {
+    "_id": "6a4d61eb6d547052475e9264",
+    "name": "Mostafa Khaled",
+    "email": "hussen@gmail.com",
+    "phone": "01097043604",
+    "password": "$2b$10$cwXjJkQro.7ShF.lGlktQOz4jojWbMtvGPZnGUyneTMcXZjHn9kj6",
+    "role": "broker",
+    "ownedUnits": [],
+    "createdAt": "2026-07-07T20:30:35.179Z",
+    "updatedAt": "2026-08-18T11:55:45.298Z",
+    "__v": 14,
+    "countryStatus": "Egypt",
+    "governorate": "Assiut",
+    "coordinates": {
+      "lat": 29.902767552671232,
+      "lon": 31.505624999999824
+    }
+  },
+  {
+    "_id": "6a4d78282b30612f58194979",
+    "name": "Hussien Mohamed",
+    "email": "hussien@gmail.com",
+    "phone": "01097043605",
+    "password": "$2b$10$pM9l9vIpbbldu21Cpm2XiuA4IFSYv1BLgHQCDFZ2LgODK6KafFx06",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713af2aba56c64af3dd7e"
+    ],
+    "createdAt": "2026-07-07T22:05:28.957Z",
+    "updatedAt": "2026-08-18T11:56:02.210Z",
+    "__v": 6,
+    "countryStatus": "Egypt",
+    "governorate": "Damietta",
+    "coordinates": {
+      "lat": 29.137969717357663,
+      "lon": 31.50562499999981
+    }
+  },
+  {
+    "_id": "6a4e82b1d9f3dbd3bd72a61b",
+    "name": "Abdo Ashraf",
+    "email": "Abdo@gmail.com",
+    "phone": "01061437904",
+    "password": "$2b$10$gNYMA.KHOLY60fAGBtoiYeUMxw6waNRFIYttVRn0tsk9ICeD5eSrG",
+    "role": "admin",
+    "ownedUnits": [],
+    "createdAt": "2026-07-08T17:02:41.478Z",
+    "updatedAt": "2026-08-01T06:38:50.706Z",
+    "__v": 2,
+    "countryStatus": "Egypt",
+    "governorate": "Qena",
+    "coordinates": {
+      "lat": 31.45346477469181,
+      "lon": 31.684152832031014
+    }
+  },
+  {
+    "_id": "6a512401d8c880b47041f10c",
+    "name": "Omar Hussein",
+    "email": "omar@gmail.com",
+    "phone": "01282984398",
+    "password": "$2b$10$aBVkl6gjBZVp08Rb6WE6xeNsllg04aV4OvHtR74Xl5.036RAH5IQ.",
+    "role": "engineer",
+    "ownedUnits": [],
+    "createdAt": "2026-07-10T16:55:29.356Z",
+    "updatedAt": "2026-08-01T06:38:39.898Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "Sohag",
+    "coordinates": {
+      "lat": 30.01579781644958,
+      "lon": 31.46167968749979
+    }
+  },
+  {
+    "_id": "6a512444d8c880b47041f10d",
+    "name": "Amgad Ashraf Hamed",
+    "email": "Amgad@gmail.com",
+    "phone": "01220820097",
+    "password": "$2b$10$dgPsbmp373BZZEtyupNHzObb5lWYdbiseIOcol8GRWgjmhpcKyGPi",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713af2aba56c64af3dd7c"
+    ],
+    "createdAt": "2026-07-10T16:56:36.811Z",
+    "updatedAt": "2026-08-17T10:58:10.498Z",
+    "__v": 3,
+    "countryStatus": "Egypt",
+    "governorate": "Qaliubiya",
+    "coordinates": {
+      "lat": 30.121572592617873,
+      "lon": 31.51661132812483
+    }
+  },
+  {
+    "_id": "6a51507d05d87197fa6c3839",
+    "name": "Ali",
+    "email": "Ali@gmail.com",
+    "phone": "01011122233",
+    "password": "$2b$10$cXvOBKJQBf0K5rjl.cW/EuBgxvZnFXijdFdh6JyhwNa8M9gE1CtYO",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713af2aba56c64af3dd7b"
+    ],
+    "createdAt": "2026-07-10T20:05:17.714Z",
+    "updatedAt": "2026-08-17T10:42:11.635Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "Assiut",
+    "coordinates": {
+      "lat": 30.735163923770255,
+      "lon": 32.028848876952836
+    }
+  },
+  {
+    "_id": "6a53d3e38f68c852e8379b4c",
+    "name": "Hassan Mohamed",
+    "email": "hassan@gmail.com",
+    "phone": "01000000000",
+    "password": "$2b$10$4pfesQ.I7rCvqFo4QgzvpeDbqSIEVkv0m4fx2i6A/hfL.tw.oYlgm",
+    "role": "broker",
+    "ownedUnits": [],
+    "createdAt": "2026-07-12T17:50:27.470Z",
+    "updatedAt": "2026-08-01T07:25:22.627Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "Menofia",
+    "coordinates": {
+      "lat": 29.90157707711008,
+      "lon": 31.318857421874906
+    }
+  },
+  {
+    "_id": "6a53d40f8f68c852e8379b4d",
+    "name": "Mostafa Mahmoud",
+    "email": "Mostafa@gmail.com",
+    "phone": "01000000001",
+    "password": "$2b$10$mAynHTiR3TwtiiTGLaGJKeI3VdDBxatYgKlR5aBtKtjod3Iy0OjIm",
+    "role": "broker",
+    "ownedUnits": [],
+    "createdAt": "2026-07-12T17:51:11.810Z",
+    "updatedAt": "2026-08-01T12:53:46.057Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "Sohag",
+    "coordinates": {
+      "lat": 30.759737021214363,
+      "lon": 31.417734374999693
+    }
+  },
+  {
+    "_id": "6a53d4308f68c852e8379b4e",
+    "name": "Khaled Magdy",
+    "email": "Khaled@gmail.com",
+    "phone": "01000000002",
+    "password": "$2b$10$aCsvxOkItgiQe7utvZPvB.ivzgt4KDhBRZaeIs7PDHGyKPPmqGWK2",
+    "role": "broker",
+    "ownedUnits": [],
+    "createdAt": "2026-07-12T17:51:44.149Z",
+    "updatedAt": "2026-08-01T06:51:07.153Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "Sohag",
+    "coordinates": {
+      "lat": 30.307887994727636,
+      "lon": 30.670664062499984
+    }
+  },
+  {
+    "_id": "6a53d44a8f68c852e8379b4f",
+    "name": "Sobhy Ahmed",
+    "email": "Sobhy@gmail.com",
+    "phone": "01000000003",
+    "password": "$2b$10$BMpfwuDtG3PecudulRf47ehuAwQ7LJZH3ST3NQuTF0CXwUfLCvEmC",
+    "role": "broker",
+    "ownedUnits": [],
+    "createdAt": "2026-07-12T17:52:10.527Z",
+    "updatedAt": "2026-08-06T09:37:11.610Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "New Valley",
+    "coordinates": {
+      "lat": 31.16483185645876,
+      "lon": 27.79224609375044
+    }
+  },
+  {
+    "_id": "6a53d4638f68c852e8379b50",
+    "name": "Salah Ahmed",
+    "email": "Salah@gmail.com",
+    "phone": "01000000004",
+    "password": "$2b$10$DUiOCWyoo12hXkxrhZ1ag.wdrtKeILu53/nt4RLo3vYyX3j5GWxmC",
+    "role": "broker",
+    "ownedUnits": [],
+    "createdAt": "2026-07-12T17:52:35.674Z",
+    "updatedAt": "2026-08-01T06:51:19.225Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "Alexandria",
+    "coordinates": {
+      "lat": 31.47220698662638,
+      "lon": 30.5992529296876
+    }
+  },
+  {
+    "_id": "6a53d4958f68c852e8379b51",
+    "name": "Sherif Ayman",
+    "email": "Sherif@gmail.com",
+    "phone": "01000000005",
+    "password": "$2b$10$OWExekKY03c5blRs15EvJeoRKZ7EQeGv3buwHjdCJvKN3td2MqugK",
+    "role": "broker",
+    "ownedUnits": [],
+    "createdAt": "2026-07-12T17:53:25.912Z",
+    "updatedAt": "2026-08-01T14:24:02.687Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "Port Said",
+    "coordinates": {
+      "lat": 30.101377158617325,
+      "lon": 31.46717285156231
+    }
+  },
+  {
+    "_id": "6a53d4bb8f68c852e8379b52",
+    "name": "Rafat Mahmoud",
+    "email": "Rafat@gmail.com",
+    "phone": "01000000006",
+    "password": "$2b$10$X8wNdijAp5rRrMoqP.jgMuQYf/MwX7O.xIu1R6JWRPp2GoqLA2dVa",
+    "role": "broker",
+    "ownedUnits": [],
+    "createdAt": "2026-07-12T17:54:03.697Z",
+    "updatedAt": "2026-08-01T06:51:34.110Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "Qena",
+    "coordinates": {
+      "lat": 31.536604715037143,
+      "lon": 31.1952612304687
+    }
+  },
+  {
+    "_id": "6a53d5268f68c852e8379b53",
+    "name": "Ashraf Mostafa",
+    "email": "Ashraf@gmail.com",
+    "phone": "01000000007",
+    "password": "$2b$10$55Xu.v8nn0KAoO80OZVUM.4fgXYpTpz26T9DEz9hb31JuDI7ajBIG",
+    "role": "broker",
+    "ownedUnits": [],
+    "createdAt": "2026-07-12T17:55:50.700Z",
+    "updatedAt": "2026-08-01T14:25:41.503Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "Beheira",
+    "coordinates": {
+      "lat": 29.873001397072045,
+      "lon": 31.340830078124846
+    }
+  },
+  {
+    "_id": "6a53d54d8f68c852e8379b54",
+    "name": "Nashat Kareem",
+    "email": "Nashat@gmail.com",
+    "phone": "01000000008",
+    "password": "$2b$10$4e1yBDboiQj10mvdG/l20OTcuk2bAkHZz91VEjAqKfRfqAiofTbo6",
+    "role": "broker",
+    "ownedUnits": [],
+    "createdAt": "2026-07-12T17:56:29.883Z",
+    "updatedAt": "2026-08-01T14:26:01.815Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "Red Sea",
+    "coordinates": {
+      "lat": 30.8588139968473,
+      "lon": 29.594003906250286
+    }
+  },
+  {
+    "_id": "6a53d5768f68c852e8379b55",
+    "name": "Yousef Tarek",
+    "email": "Yousef@gmail.com",
+    "phone": "01000000009",
+    "password": "$2b$10$uj8TffcbwLzIpns01ukE9.JuVs7oAfblnI7o7JZLY9l8sYuXH9Te.",
+    "role": "broker",
+    "ownedUnits": [],
+    "createdAt": "2026-07-12T17:57:10.993Z",
+    "updatedAt": "2026-08-01T14:26:23.015Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "Fayoum",
+    "coordinates": {
+      "lat": 30.471363816057313,
+      "lon": 32.04395507812467
+    }
+  },
+  {
+    "_id": "6a53eedd319c4d8cd046a0b0",
+    "name": "Kareem Hussien",
+    "email": "Kareem@gmail.com",
+    "phone": "01097043601",
+    "password": "$2b$10$WwaCDZr6ZpfQk7LgCQKboOBNFn/gZ6v7jwUSFzw58t20btUvOmYyq",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518bab9fee53689ffaf860",
+      "6a518df7b1db17656627d1b3",
+      "6a518bb49fee53689ffaf88b"
+    ],
+    "createdAt": "2026-07-12T19:45:33.307Z",
+    "updatedAt": "2026-08-06T09:08:54.479Z",
+    "__v": 3,
+    "countryStatus": "Egypt",
+    "governorate": "Giza",
+    "coordinates": {
+      "lat": 30.4346648154524,
+      "lon": 30.516855468750084
+    }
+  },
+  {
+    "_id": "6a53efc4319c4d8cd046a0b3",
+    "name": "Client",
+    "email": "Client1@gmail.com",
+    "phone": "01097043606",
+    "password": "$2b$10$vAXXeeyANzC8XQEFsFAk2.lokzGUe9F.MPX2BxBKh3B2DJ/OlWuj2",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713d42aba56c64af3dfb1",
+      "6a4713d42aba56c64af3dfb7",
+      "6a4713ce2aba56c64af3df58"
+    ],
+    "createdAt": "2026-07-12T19:49:24.038Z",
+    "updatedAt": "2026-08-01T15:19:45.313Z",
+    "__v": 2,
+    "countryStatus": "Egypt",
+    "governorate": "Beheira",
+    "coordinates": {
+      "lat": 30.652288450859444,
+      "lon": 31.901132812499725
+    }
+  },
+  {
+    "_id": "6a54d24f6a33ca64e5585d16",
+    "name": "Mashael Singer",
+    "email": "mashaelsinger2003@gmail.com",
+    "phone": "01227173013",
+    "password": "$2b$10$j531FmGg6G5co3g5d6Na5.A089Y1RI8lwozKNHEL6AIYaG..VyocK",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518bba9fee53689ffaf89b"
+    ],
+    "createdAt": "2026-07-13T11:55:59.962Z",
+    "updatedAt": "2026-08-01T06:45:55.913Z",
+    "__v": 2,
+    "secondaryEmail": "mashaelsinger2003@gmail.com",
+    "secondaryPhone": "01149997417",
+    "countryStatus": "Egypt",
+    "governorate": "Port Said",
+    "coordinates": {
+      "lat": 31.03901273001459,
+      "lon": 29.6818945312503
+    }
+  },
+  {
+    "_id": "6a54e5dad2b40ad7aa2c4d96",
+    "name": "User One",
+    "email": "user1@gmail.com",
+    "phone": "01012345678",
+    "password": "$2b$10$q3CS8AxzJ2U5gxEyYq3e9edL3RgVkq0kNkZrfGdi7LTJ6.2hb/2PC",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713be2aba56c64af3de58",
+      "6a518baa9fee53689ffaf859",
+      "6a518dc2b1db17656627d06e"
+    ],
+    "createdAt": "2026-07-13T13:19:22.080Z",
+    "updatedAt": "2026-08-06T09:31:36.753Z",
+    "__v": 14,
+    "countryStatus": "Egypt",
+    "governorate": "Red Sea",
+    "coordinates": {
+      "lat": 30.150076763628064,
+      "lon": 32.43946289062456
+    }
+  },
+  {
+    "_id": "6a5508c690d530e721fc6959",
+    "name": "Omar Ayman",
+    "email": "Omar@gmail.com",
+    "phone": "01097043602",
+    "password": "$2b$10$iMmSqAsnYztBkoJpdXaT7uMFk4tD91Om1Wpk3Xc3BcljEZrgqtobu",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713c22aba56c64af3dea2",
+      "6a4713c32aba56c64af3dea3",
+      "6a518baa9fee53689ffaf85a"
+    ],
+    "createdAt": "2026-07-13T15:48:22.576Z",
+    "updatedAt": "2026-08-01T16:56:48.367Z",
+    "__v": 4,
+    "countryStatus": "Egypt",
+    "governorate": "Sohag",
+    "coordinates": {
+      "lat": 29.38716249367798,
+      "lon": 31.37378906249985
+    }
+  },
+  {
+    "_id": "6a55094c90d530e721fc6966",
+    "name": "Client Two",
+    "email": "Client2@gmail.com",
+    "phone": "01097043603",
+    "password": "$2b$10$BiT9c6CdW4/DAjORJIEujeMurF.GEid/0yDHKTlWkdK62p5FnXBLy",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518baa9fee53689ffaf85d",
+      "6a518bb29fee53689ffaf880",
+      "6a518bb89fee53689ffaf893"
+    ],
+    "createdAt": "2026-07-13T15:50:36.278Z",
+    "updatedAt": "2026-08-06T09:43:19.479Z",
+    "__v": 8,
+    "countryStatus": "Egypt",
+    "governorate": "Beheira",
+    "coordinates": {
+      "lat": 30.216554465306935,
+      "lon": 31.50562499999981
+    }
+  },
+  {
+    "_id": "6a550a0d90d530e721fc6975",
+    "name": "Client Three",
+    "email": "Client3@gmail.com",
+    "phone": "01097043607",
+    "password": "$2b$10$sfrLna/uEXSVVlWoItjAJuEXak8OF/grb5BEJLhCrwnAjMWHwXpCq",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518bb99fee53689ffaf899",
+      "6a518bbc9fee53689ffaf8aa",
+      "6a518dbeb1db17656627d055",
+      "6a4713b12aba56c64af3dd9d",
+      "6a518dbcb1db17656627d046",
+      "6a518bb39fee53689ffaf88a"
+    ],
+    "createdAt": "2026-07-13T15:53:49.271Z",
+    "updatedAt": "2026-08-05T12:46:18.913Z",
+    "__v": 6,
+    "countryStatus": "Egypt",
+    "governorate": "Kafr Al sheikh",
+    "coordinates": {
+      "lat": 30.63338402988504,
+      "lon": 30.231210937500155
+    }
+  },
+  {
+    "_id": "6a550a8090d530e721fc6987",
+    "name": "Client Four",
+    "email": "Client4@gmail.com",
+    "phone": "01097043608",
+    "password": "$2b$10$SWhitj.F52dKri8m4a0rD.DUcH9rZ5W5/Oy2nyADdOtJcuaqsG4ti",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518bba9fee53689ffaf89c",
+      "6a518e05b1db17656627d202",
+      "6a518bb59fee53689ffaf88f"
+    ],
+    "createdAt": "2026-07-13T15:55:44.095Z",
+    "updatedAt": "2026-08-01T13:02:54.261Z",
+    "__v": 7,
+    "countryStatus": "Egypt",
+    "governorate": "Red Sea",
+    "coordinates": {
+      "lat": 25.8643741230601,
+      "lon": 32.406503906249554
+    }
+  },
+  {
+    "_id": "6a550b0090d530e721fc699d",
+    "name": "Client Five",
+    "email": "Client5@gmail.com",
+    "phone": "01097043609",
+    "password": "$2b$10$YARlUpvdGGcGssrwrSG82OFf13yo08jAXMuNqPWVl/aImvLOEzMem",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4d621c6d547052475e9267",
+      "6a518ba89fee53689ffaf854",
+      "6a518bbd9fee53689ffaf8ae",
+      "6a518e04b1db17656627d1f8"
+    ],
+    "createdAt": "2026-07-13T15:57:52.806Z",
+    "updatedAt": "2026-08-01T06:46:25.282Z",
+    "__v": 7,
+    "countryStatus": "Egypt",
+    "governorate": "Beni Suef",
+    "coordinates": {
+      "lat": 30.982516386086445,
+      "lon": 32.49439453124955
+    }
+  },
+  {
+    "_id": "6a563757504064a3819e427a",
+    "name": "Client Six",
+    "email": "Client6@gmail.com",
+    "phone": "01097043610",
+    "password": "$2b$10$SVrVUT8k57exqlOi1lyF.O0LGSwn3qX6XYjeFifBkJS07Qd0rozwG",
+    "role": "owner",
+    "ownedUnits": [
+      "6a5134835ec1ce2cca6411a5",
+      "6a518e0ab1db17656627d22a",
+      "6a518de7b1db17656627d145",
+      "6a518bbc9fee53689ffaf8a9"
+    ],
+    "createdAt": "2026-07-14T13:19:19.411Z",
+    "updatedAt": "2026-08-06T13:33:36.870Z",
+    "__v": 4,
+    "countryStatus": "Egypt",
+    "governorate": "Cairo",
+    "coordinates": {
+      "lat": 31.42417255992935,
+      "lon": 30.3850195312501
+    }
+  },
+  {
+    "_id": "6a563803504064a3819e4287",
+    "name": "Client Seven",
+    "email": "Client7@gmail.com",
+    "phone": "01097043611",
+    "password": "$2b$10$ka/2kHJM/7gDLHw3T3PkneMEUj1pmPEJSpmC2UWIRWpzK2CutqNua",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518db0b1db17656627d02d",
+      "6a4713df2aba56c64af3e053",
+      "6a518defb1db17656627d172"
+    ],
+    "createdAt": "2026-07-14T13:22:11.468Z",
+    "updatedAt": "2026-08-01T16:55:37.060Z",
+    "__v": 1,
+    "countryStatus": "Egypt",
+    "governorate": "Luxor",
+    "coordinates": {
+      "lat": 29.82654845443324,
+      "lon": 31.340830078124863
+    }
+  },
+  {
+    "_id": "6a56387c504064a3819e4295",
+    "name": "Client Eight",
+    "email": "Client8@gmail.com",
+    "phone": "01097043612",
+    "password": "$2b$10$zUVG.71Yoh2tXgbJsqfZCeiYAjp9NXLvVwYT/19lIXXbRM/tu9KzS",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518e03b1db17656627d1f3"
+    ],
+    "createdAt": "2026-07-14T13:24:12.518Z",
+    "updatedAt": "2026-08-01T06:46:45.410Z",
+    "__v": 1,
+    "countryStatus": "Egypt",
+    "governorate": "Red Sea",
+    "coordinates": {
+      "lat": 30.06453956615836,
+      "lon": 30.945322265624963
+    }
+  },
+  {
+    "_id": "6a5638ed504064a3819e42a1",
+    "name": "Client Nine",
+    "email": "Client9@gmail.com",
+    "phone": "01097043613",
+    "password": "$2b$10$NNqJopwAvaAjoMYOSJNrQOfsLl9/229mxXBVMscB0.ujD4PUOOsjW",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518bab9fee53689ffaf85f"
+    ],
+    "createdAt": "2026-07-14T13:26:05.799Z",
+    "updatedAt": "2026-08-01T06:46:50.065Z",
+    "__v": 6,
+    "countryStatus": "Egypt",
+    "governorate": "Luxor",
+    "coordinates": {
+      "lat": 30.68063815235931,
+      "lon": 30.769541015625013
+    }
+  },
+  {
+    "_id": "6a5639f2504064a3819e42bb",
+    "name": "Client Ten",
+    "email": "Client10@gmail.com",
+    "phone": "01097043614",
+    "password": "$2b$10$WpBrpxX6Hk9DmsXKUg5VBeVcXcWEtFkhTm9lrb8OHO2VRpi8MhO1y",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518bac9fee53689ffaf86b",
+      "6a518bad9fee53689ffaf86f",
+      "6a518dacb1db17656627d014",
+      "6a4713b82aba56c64af3de08"
+    ],
+    "createdAt": "2026-07-14T13:30:26.466Z",
+    "updatedAt": "2026-08-01T12:51:38.034Z",
+    "__v": 6,
+    "countryStatus": "Egypt",
+    "governorate": "Aswan",
+    "coordinates": {
+      "lat": 31.07665834782358,
+      "lon": 31.384775390624856
+    }
+  },
+  {
+    "_id": "6a563ab3504064a3819e42d5",
+    "name": "Client Eleven",
+    "email": "Client11@gmail.com",
+    "phone": "01097043615",
+    "password": "$2b$10$zg3YQ1KLLfOF9WzdNrgelefeUaW3nu0lHlO0U0k2PziiaS0KnbQOG",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518d97b1db17656627cfa6",
+      "6a4713c42aba56c64af3debf"
+    ],
+    "createdAt": "2026-07-14T13:33:39.112Z",
+    "updatedAt": "2026-08-01T13:02:18.190Z",
+    "__v": 3,
+    "countryStatus": "Egypt",
+    "governorate": "South Sinai",
+    "coordinates": {
+      "lat": 31.067248339961232,
+      "lon": 30.472910156250084
+    }
+  },
+  {
+    "_id": "6a58b6722b201da207d9e55a",
+    "name": "Abdelrahman Ashraf",
+    "email": "Abdelrahman@gmail.com",
+    "phone": "01061437905",
+    "password": "$2b$10$m/yUqmnRWHoTzDhJuGzlSuWradAgpwnRS5TP846.wqZT47StBWSca",
+    "role": "broker",
+    "ownedUnits": [],
+    "createdAt": "2026-07-16T10:46:10.986Z",
+    "updatedAt": "2026-08-01T16:56:37.707Z",
+    "__v": 0,
+    "countryStatus": "Egypt",
+    "governorate": "Qena",
+    "coordinates": {
+      "lat": 31.286963423922955,
+      "lon": 30.04993652343773
+    }
+  },
+  {
+    "_id": "6a58b6ab957c309227de54b0",
+    "name": "newuser",
+    "email": "newuser@gmail.com",
+    "phone": "01149474066",
+    "password": "$2b$10$vjzB66P8cWF3Xe33R8coVu.ljcuPhJpNdj82cGtv7McMJ/r4EoMWG",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518bb49fee53689ffaf88e"
+    ],
+    "createdAt": "2026-07-16T10:47:07.811Z",
+    "updatedAt": "2026-08-01T06:47:05.614Z",
+    "__v": 5,
+    "countryStatus": "Egypt",
+    "governorate": "Gharbia",
+    "coordinates": {
+      "lat": 29.425445881822544,
+      "lon": 31.099130859374927
+    }
+  },
+  {
+    "_id": "6a5d7314e30afe38425a127e",
+    "name": "User three",
+    "email": "User3@gmail.com",
+    "phone": "01011122234",
+    "password": "$2b$10$YJ7/K7G3DLZCbBZ8lC.BAOhBBceRUAeAM7V.i8.l5MG73ODrNOj1m",
+    "countryStatus": "Egypt",
+    "governorate": "Cairo",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713af2aba56c64af3dd7a"
+    ],
+    "createdAt": "2026-07-20T01:00:04.805Z",
+    "updatedAt": "2026-08-16T17:14:48.856Z",
+    "__v": 0,
+    "coordinates": {
+      "lat": 29.86466528104965,
+      "lon": 31.59351562499979
+    }
+  },
+  {
+    "_id": "6a64c2faf9f8529adc7a745d",
+    "name": "Mashael Mohsen Singer",
+    "email": "mashaelsinger2002@gmail.com",
+    "phone": "01123706844",
+    "password": "$2b$10$Vsj6heQENEwTQfSDQdF9suYdpKYC.4/wH1KRJFt4F1nOZHTQFLpLS",
+    "countryStatus": "Egypt",
+    "governorate": "Cairo",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-07-25T14:06:50.554Z",
+    "updatedAt": "2026-08-01T06:29:35.371Z",
+    "__v": 0,
+    "coordinates": {
+      "lat": 30.850561485485688,
+      "lon": 25.177500000001494
+    }
+  },
+  {
+    "_id": "6a6783576f1371b8f7174928",
+    "name": "Local Test User",
+    "email": "local.user@elnarges.test",
+    "phone": "01112223334",
+    "password": "$2b$10$8WSMkase1BuKzezNOKjfEOVcnCyyzXJTh8ieAY9hGvb3r7bwCNImW",
+    "countryStatus": "Egypt",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-07-27T16:12:07.899Z",
+    "updatedAt": "2026-08-01T06:29:52.393Z",
+    "__v": 0,
+    "coordinates": {
+      "lat": 25.903910780739963,
+      "lon": 31.76929687499974
+    }
+  },
+  {
+    "_id": "6a678e876f1371b8f717492c",
+    "name": "MMMMohamed Ahmed",
+    "email": "mohamedelbalahy588@gmail.com",
+    "phone": "01282421973",
+    "password": "$2b$10$ehPvPX6v6hvbRpG5Ti788uQEOVgrCLDNuUFT1LELOI5ijHLq8Ue72",
+    "countryStatus": "Egypt",
+    "governorate": "Suez",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713af2aba56c64af3dd7f",
+      "6a4713b02aba56c64af3dd80"
+    ],
+    "createdAt": "2026-07-27T16:59:51.970Z",
+    "updatedAt": "2026-08-01T06:47:09.265Z",
+    "__v": 0,
+    "coordinates": {
+      "lat": 30.20231302058216,
+      "lon": 31.500131835937307
+    }
+  },
+  {
+    "_id": "6a6b90335fcab0d0a5748221",
+    "name": "Mohamed Senple",
+    "email": "Senple@gmail.com",
+    "phone": "01097043616",
+    "password": "$2b$10$dqQwcUQjhOvuE3XBv94GiuMIG44G5uSNNdbLDPHSmyC5V6Lf4KawC",
+    "countryStatus": "Egypt",
+    "governorate": "Suez",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-07-30T17:56:03.119Z",
+    "updatedAt": "2026-08-01T06:29:59.722Z",
+    "__v": 0,
+    "coordinates": {
+      "lat": 30.131074897597827,
+      "lon": 30.846445312499984
+    }
+  },
+  {
+    "_id": "6a6b90705fcab0d0a5748222",
+    "name": "Abdelrahman Elgendy",
+    "email": "Elgendy@gmail.com",
+    "phone": "01097043617",
+    "password": "$2b$10$bBsQotmX6YbPaHBOijhjKu4bbAYMIks2GmrPeMbKKzQRS7ea.4iey",
+    "countryStatus": "Egypt",
+    "governorate": "Ismailia",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-07-30T17:57:04.721Z",
+    "updatedAt": "2026-08-01T06:30:07.050Z",
+    "__v": 0,
+    "coordinates": {
+      "lat": 30.623930433906203,
+      "lon": 30.89039062499997
+    }
+  },
+  {
+    "_id": "6a6b90935fcab0d0a5748223",
+    "name": "Emad Mahmoud",
+    "email": "Emad@gmail.com",
+    "phone": "01097043618",
+    "password": "$2b$10$T28xuGlkE5Y50w.pjkHkO.q/zq/LHOMAxT2Ywc9D9ihwlPNeIm7rm",
+    "countryStatus": "Egypt",
+    "governorate": "Beheira",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-07-30T17:57:39.231Z",
+    "updatedAt": "2026-08-01T06:30:17.689Z",
+    "__v": 0,
+    "coordinates": {
+      "lat": 28.135175331837903,
+      "lon": 32.86792968749944
+    }
+  },
+  {
+    "_id": "6a6b90b25fcab0d0a5748224",
+    "name": "Hosny Mostafa",
+    "email": "Hosny@gmail.com",
+    "phone": "01097043619",
+    "password": "$2b$10$Bz5CYT9kGeQoqHzTvayuAe9YuhMjzyEv8LErbUgsPq4vn82F8B8jO",
+    "countryStatus": "Egypt",
+    "governorate": "Matrouh",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713be2aba56c64af3de61",
+      "6a4713c42aba56c64af3debc"
+    ],
+    "createdAt": "2026-07-30T17:58:10.173Z",
+    "updatedAt": "2026-08-01T16:59:28.403Z",
+    "__v": 0,
+    "coordinates": {
+      "lat": 30.112069373225722,
+      "lon": 31.21998046874989
+    }
+  },
+  {
+    "_id": "6a6b90d55fcab0d0a5748225",
+    "name": "Yasser Arafa",
+    "email": "Yasser@gmail.com",
+    "phone": "01097043620",
+    "password": "$2b$10$n07.i0g94DuhBmwU8udch.J8cu0ZqG/xg4RpF3ABIaJrKOGNkbR46",
+    "countryStatus": "Egypt",
+    "governorate": "Cairo",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713c12aba56c64af3de93"
+    ],
+    "createdAt": "2026-07-30T17:58:45.103Z",
+    "updatedAt": "2026-08-01T06:47:13.544Z",
+    "__v": 0,
+    "coordinates": {
+      "lat": 30.808108784932212,
+      "lon": 30.19825195312516
+    }
+  },
+  {
+    "_id": "6a6b90f65fcab0d0a5748226",
+    "name": "Abdullah Yasser",
+    "email": "Abdullah@gmail.com",
+    "phone": "01097043621",
+    "password": "$2b$10$bRCcY80NPen5Hn0fEN3WD.oLuONd1K5S4TRwYKca2UoEoGh.YmJta",
+    "countryStatus": "Egypt",
+    "governorate": "Red Sea",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518e04b1db17656627d1fd",
+      "6a4713b52aba56c64af3dddb"
+    ],
+    "createdAt": "2026-07-30T17:59:18.158Z",
+    "updatedAt": "2026-08-01T14:27:00.503Z",
+    "__v": 0,
+    "coordinates": {
+      "lat": 30.812826678611476,
+      "lon": 29.308359375000396
+    }
+  },
+  {
+    "_id": "6a6b911b5fcab0d0a5748227",
+    "name": "Badr Kareem",
+    "email": "Badr@gmail.com",
+    "phone": "01097043622",
+    "password": "$2b$10$cSX3gtfnymLhIo8uQXKNuurqkhPOL2ktVCHq1eNyBdjocBY2cbnXy",
+    "countryStatus": "Egypt",
+    "governorate": "Alexandria",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-07-30T17:59:55.350Z",
+    "updatedAt": "2026-08-01T06:30:53.505Z",
+    "__v": 0,
+    "coordinates": {
+      "lat": 31.452293261891935,
+      "lon": 31.384775390624856
+    }
+  },
+  {
+    "_id": "6a6b913a5fcab0d0a5748228",
+    "name": "Seif Awadallah",
+    "email": "Seif@gmail.com",
+    "phone": "01097043623",
+    "password": "$2b$10$fTmXQmqaZxHE82NAxT3RGOuv1uzD.Iy5TlTqkqvwt4S2l4RI9cAyC",
+    "countryStatus": "Egypt",
+    "governorate": "New Valley",
+    "role": "owner",
+    "ownedUnits": [
+      "6a518de5b1db17656627d136"
+    ],
+    "createdAt": "2026-07-30T18:00:26.128Z",
+    "updatedAt": "2026-08-06T13:36:08.029Z",
+    "__v": 0,
+    "coordinates": {
+      "lat": 30.775077043596593,
+      "lon": 32.21973632812462
+    }
+  },
+  {
+    "_id": "6a6d8eeef6ab1710cf2e96c0",
+    "name": "Esraa Khaled",
+    "email": "Esraa@gmail.com",
+    "phone": "01097043624",
+    "password": "$2b$10$eS6n0JXNk4wyFsSJHSM8oe/UwqQzkHwx0OK4S1iCiqVR4fHNFOoB.",
+    "coordinates": {
+      "lat": 30.644018221355804,
+      "lon": 31.560556640624807
+    },
+    "role": "owner",
+    "ownedUnits": [
+      "6a518dc0b1db17656627d064",
+      "6a4713bb2aba56c64af3de2a",
+      "6a4713bd2aba56c64af3de54",
+      "6a4713db2aba56c64af3e01a"
+    ],
+    "createdAt": "2026-08-01T06:15:10.230Z",
+    "updatedAt": "2026-08-16T10:13:30.853Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6dea2b3a088af17020605f",
+    "name": "Reem Khaled",
+    "email": "Reem@gmail.com",
+    "phone": "01097043625",
+    "password": "$2b$10$EhtcTf1a6qLLZkPLAB1s7.pVivxvpAB/VoiNM9OhsCc0Wv0NI0PU6",
+    "coordinates": {
+      "lat": 28.19449885105766,
+      "lon": 28.759042968750546
+    },
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713b92aba56c64af3de15",
+      "6a518dedb1db17656627d163"
+    ],
+    "createdAt": "2026-08-01T12:44:27.640Z",
+    "updatedAt": "2026-08-01T13:07:41.119Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6dea673a088af170206060",
+    "name": "Maryam Ahmed",
+    "email": "Maryam@gmail.com",
+    "phone": "01097043626",
+    "password": "$2b$10$LkQgqmfG3gMV32yru4sTDOHKaQHaneDs4z4jRiSTlC5p5ypwPSZoi",
+    "coordinates": {
+      "lat": 31.411281085597867,
+      "lon": 30.393259277343812
+    },
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713de2aba56c64af3e049"
+    ],
+    "createdAt": "2026-08-01T12:45:27.308Z",
+    "updatedAt": "2026-08-16T10:06:31.625Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6deacc3a088af170206061",
+    "name": "Amal Ashour",
+    "email": "Amal@gmail.com",
+    "phone": "01097043627",
+    "password": "$2b$10$MuFTHGJLPHG0ijg8r45ae.hjTtzy9Q2M3UJo54eJoRs7wZB3Ve6ke",
+    "coordinates": {
+      "lat": 30.783336042773502,
+      "lon": 32.00550292968712
+    },
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713b12aba56c64af3dd94",
+      "6a4713cd2aba56c64af3df40"
+    ],
+    "createdAt": "2026-08-01T12:47:08.518Z",
+    "updatedAt": "2026-08-16T17:16:27.974Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a70e376c2406651d23346ee",
+    "name": "Omar Khaled",
+    "email": "Omarrrr@gmail.com",
+    "phone": "01097043628",
+    "password": "$2b$10$ttI4.75EYJiOYFuLnvzaUuLLjzLB/vThOp5kEpUKAetnkeo2Jshs2",
+    "coordinates": {
+      "lat": 29.14876465646447,
+      "lon": 29.00074218750049
+    },
+    "eName": "Matrouh",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-08-03T18:52:38.801Z",
+    "updatedAt": "2026-08-03T19:30:08.279Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a70e881c2406651d23347b5",
+    "name": "Amr Mostafa",
+    "email": "Amr@gmail.com",
+    "phone": "01097043629",
+    "password": "$2b$10$iHzEVrKFUKH6hIXNLggBp.w7XcqksPBmC/KnQVsnoElO0D.BtBu8e",
+    "coordinates": {
+      "lat": 29.033560219453598,
+      "lon": 29.374277343750375
+    },
+    "eName": "Giza",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-08-03T19:14:09.226Z",
+    "updatedAt": "2026-08-03T19:30:09.934Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a70ed161bc7abcc4df14aed",
+    "name": "Yousef Osman",
+    "email": "Osman@gmail.com",
+    "phone": "01097043630",
+    "password": "$2b$10$d89cOtU1l2X2C8Sq3Lvh1OcqADcf6SgfK/lsotuog57XwXjLnF91m",
+    "coordinates": {
+      "lat": 29.818208459533757,
+      "lon": 31.022226562499945
+    },
+    "eName": "Giza",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-08-03T19:33:42.440Z",
+    "updatedAt": "2026-08-03T19:33:42.440Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8196528d3d3c4114397f5f",
+    "name": "Abdelrahman Ashraf",
+    "email": "AbdoFarag@gmail.com",
+    "phone": "01061437804",
+    "password": "$2b$10$vEjYEYfy4z9F7UzrxDQu/uFrgkIuz3XiGkOErEF0nian76omZQZbG",
+    "coordinates": {
+      "lat": 30.07625000000007,
+      "lon": 31.206660000000056
+    },
+    "eName": "Giza",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-08-16T10:52:02.697Z",
+    "updatedAt": "2026-08-16T10:52:02.697Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a81a8c6b35baa15748b9eaf",
+    "name": "Mostafa Elgendy",
+    "email": "Elgendy1@gmail.com",
+    "phone": "01097013457",
+    "password": "$2b$10$WPcnqCuuGeqnS.VAGPcUme6tyfl65H2UxAEaKNrjcKs2p10eWyjwW",
+    "coordinates": {
+      "lat": 29.999148801865818,
+      "lon": 31.472666015624835
+    },
+    "eName": "Cairo",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-08-16T12:10:46.095Z",
+    "updatedAt": "2026-08-16T12:10:46.095Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a81ba9a6562677790f30622",
+    "name": "Yasmeen Ahmed",
+    "email": "yasmeenahmed@gmail.com",
+    "phone": "01149474069",
+    "password": "$2b$10$.a560wauSpsYm2xur.WNRuZxoiTXXttVMAXJaikbigAMF6bFgqmia",
+    "countryStatus": "Egypt",
+    "governorate": "ÇáÞáíæÈíÉ",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713c72aba56c64af3deed"
+    ],
+    "createdAt": "2026-08-16T13:26:51.007Z",
+    "updatedAt": "2026-08-16T13:30:41.045Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a81e934b35baa15748ba0d7",
+    "name": "Hossam Ellithy",
+    "email": "Elltithy@gmail.com",
+    "phone": "01282984384",
+    "password": "$2b$10$oCw3UKKfa71VawNDrtv5B.xaQxynfRQC3jGg7A2fcSHzX1SezgHhG",
+    "coordinates": {
+      "lat": 30.027688258886347,
+      "lon": 30.53882812500008
+    },
+    "eName": "Giza",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-08-16T16:45:40.622Z",
+    "updatedAt": "2026-08-16T16:45:40.622Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a82de985fa0236ab3f16f17",
+    "name": "Hussien Ahmed",
+    "email": "Ashour@gmail.com",
+    "phone": "01097043451",
+    "password": "$2b$10$tswyqa3zEPIK1YQMS8l8JugHfSaHpIEHlusRUIyA4b/TphwW9xyQa",
+    "coordinates": {
+      "lat": 30.122760430750823,
+      "lon": 30.758554687499995
+    },
+    "eName": "Giza",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-08-17T10:12:40.900Z",
+    "updatedAt": "2026-08-17T10:12:40.900Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a82e1a1bbdf4407f8bb8cac",
+    "name": "Ali Mostafa ",
+    "email": "asdsad@gmail.com",
+    "phone": "01097043145",
+    "password": "$2b$10$DwRq6jsh/LXINdgqZhe3ueAonaPwq5zAOIbVNkK6pRyDDRBPYy0pW",
+    "coordinates": {
+      "lat": 30.160763705080218,
+      "lon": 31.3957617187498
+    },
+    "eName": "Cairo",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713cd2aba56c64af3df3e"
+    ],
+    "createdAt": "2026-08-17T10:25:37.123Z",
+    "updatedAt": "2026-08-17T10:43:33.570Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8443c10b926b3335ea63d4",
+    "name": "Ziad Tarek",
+    "email": "Ziad1@gmail.com",
+    "phone": "01061437147",
+    "password": "$2b$10$MJBeS831HfO/Dgq/SlZ12e4p72DNKN5t33ec1NLfyWVn1xc/5egZq",
+    "coordinates": {
+      "lat": 29.957276721837864,
+      "lon": 31.531993796825212
+    },
+    "eName": "Cairo",
+    "role": "owner",
+    "ownedUnits": [
+      "6a4713cd2aba56c64af3df3d"
+    ],
+    "createdAt": "2026-08-18T11:36:33.016Z",
+    "updatedAt": "2026-08-18T11:56:38.917Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a8706a7f4e3eb3f8fddf907",
+    "name": "Nour",
+    "email": "Nour@gmail.com",
+    "phone": "01012345677",
+    "password": "$2b$10$AkLgZc447JbJ2tRGOfc9veZxLFRIudSBE2U/kve5wZxlvDTWcfVx6",
+    "coordinates": {
+      "lat": 60.471166200000006,
+      "lon": 6.858346399999999
+    },
+    "eName": "",
+    "role": "user",
+    "ownedUnits": [],
+    "createdAt": "2026-08-20T13:52:39.722Z",
+    "updatedAt": "2026-08-20T13:52:39.722Z",
+    "__v": 0
+  }
+]

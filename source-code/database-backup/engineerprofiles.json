@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "6a512c4e5ec1ce2cca64101b",
+    "userId": "6a512401d8c880b47041f10c",
+    "__v": 0,
+    "age": 25,
+    "createdAt": "2026-07-10T17:30:55.024Z",
+    "graduationYear": 2024,
+    "manualId": "372007",
+    "speciality": "Civil Engineer",
+    "updatedAt": "2026-08-01T06:38:39.969Z"
+  }
+]

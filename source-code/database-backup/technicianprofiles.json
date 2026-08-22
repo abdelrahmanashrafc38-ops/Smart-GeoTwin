@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "6a5b8512e74e9f1e41cf19c8",
+    "userId": "6a5b8512e74e9f1e41cf19c7",
+    "manualId": "TECH-INT_PLUMBING",
+    "specialization": "INT_PLUMBING",
+    "createdAt": "2026-07-18T13:52:18.769Z",
+    "updatedAt": "2026-07-18T13:52:18.769Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a5b8513e74e9f1e41cf19ca",
+    "userId": "6a5b8512e74e9f1e41cf19c9",
+    "manualId": "TECH-INT_ELECTRICAL",
+    "specialization": "INT_ELECTRICAL",
+    "createdAt": "2026-07-18T13:52:19.288Z",
+    "updatedAt": "2026-07-18T13:52:19.288Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a5b8513e74e9f1e41cf19cc",
+    "userId": "6a5b8513e74e9f1e41cf19cb",
+    "manualId": "TECH-INT_HVAC",
+    "specialization": "INT_HVAC",
+    "createdAt": "2026-07-18T13:52:19.994Z",
+    "updatedAt": "2026-07-18T13:52:19.994Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a5b8514e74e9f1e41cf19ce",
+    "userId": "6a5b8514e74e9f1e41cf19cd",
+    "manualId": "TECH-INT_FINISHING",
+    "specialization": "INT_FINISHING",
+    "createdAt": "2026-07-18T13:52:20.887Z",
+    "updatedAt": "2026-07-18T13:52:20.887Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a5b8515e74e9f1e41cf19d0",
+    "userId": "6a5b8515e74e9f1e41cf19cf",
+    "manualId": "TECH-EXT_INFRASTRUCTURE",
+    "specialization": "EXT_INFRASTRUCTURE",
+    "createdAt": "2026-07-18T13:52:21.442Z",
+    "updatedAt": "2026-07-18T13:52:21.442Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a5b8516e74e9f1e41cf19d2",
+    "userId": "6a5b8515e74e9f1e41cf19d1",
+    "manualId": "TECH-EXT_LANDSCAPING",
+    "specialization": "EXT_LANDSCAPING",
+    "createdAt": "2026-07-18T13:52:22.731Z",
+    "updatedAt": "2026-07-18T13:52:22.731Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a5b8517e74e9f1e41cf19d4",
+    "userId": "6a5b8517e74e9f1e41cf19d3",
+    "manualId": "TECH-EXT_ELEVATORS",
+    "specialization": "EXT_ELEVATORS",
+    "createdAt": "2026-07-18T13:52:23.958Z",
+    "updatedAt": "2026-07-18T13:52:23.958Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a5b8519e74e9f1e41cf19d6",
+    "userId": "6a5b8518e74e9f1e41cf19d5",
+    "manualId": "TECH-EXT_SECURITY_SAFETY",
+    "specialization": "EXT_SECURITY_SAFETY",
+    "createdAt": "2026-07-18T13:52:25.312Z",
+    "updatedAt": "2026-07-18T13:52:25.312Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a5b851ae74e9f1e41cf19d8",
+    "userId": "6a5b8519e74e9f1e41cf19d7",
+    "manualId": "TECH-EXT_CLEANING_PEST",
+    "specialization": "EXT_CLEANING_PEST",
+    "createdAt": "2026-07-18T13:52:26.674Z",
+    "updatedAt": "2026-07-18T13:52:26.674Z",
+    "__v": 0
+  }
+]

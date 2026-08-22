@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "6a5f4e6439fa5d51a7509bbd",
+    "name": "ahmed mohammed",
+    "phone": "01238773013",
+    "age": 34,
+    "specialization": "Plumbing (سباكة)",
+    "addedBy": "6a512401d8c880b47041f10c",
+    "status": "Active",
+    "createdAt": "2026-07-21T10:48:04.345Z",
+    "updatedAt": "2026-07-21T10:48:04.345Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a5f4e8239fa5d51a7509bbe",
+    "name": "yasser ibrahim",
+    "phone": "01293489291",
+    "age": 40,
+    "specialization": "Cleaning (نظافة)",
+    "addedBy": "6a512401d8c880b47041f10c",
+    "status": "Active",
+    "createdAt": "2026-07-21T10:48:34.148Z",
+    "updatedAt": "2026-07-21T10:48:34.148Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6178abf3ac5f98455b04e4",
+    "name": "Khaled Ashour",
+    "phone": "01021312540",
+    "age": 30,
+    "specialization": "Infrastructure (بنية تحتية / شبكات المياه)",
+    "addedBy": "6a512401d8c880b47041f10c",
+    "status": "Active",
+    "createdAt": "2026-07-23T02:12:59.851Z",
+    "updatedAt": "2026-07-23T02:12:59.851Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a65785fa6ae85d9147476af",
+    "name": "Ahmed Alziaty",
+    "phone": "01044788968",
+    "age": 28,
+    "specialization": "Electrical (كهرباء)",
+    "addedBy": "6a512401d8c880b47041f10c",
+    "status": "Active",
+    "createdAt": "2026-07-26T03:00:47.861Z",
+    "updatedAt": "2026-07-26T03:00:47.861Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a657f003414bc694d597c87",
+    "name": "Mansour ElSrougy",
+    "phone": "01044778841",
+    "age": 29,
+    "specialization": "Carpentry (نجارة)",
+    "addedBy": null,
+    "status": "Active",
+    "createdAt": "2026-07-26T03:29:04.284Z",
+    "updatedAt": "2026-07-26T03:29:04.284Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a657f413414bc694d597c88",
+    "name": "Adham Hegab",
+    "phone": "01041122647",
+    "age": 35,
+    "specialization": "Landscaping / Agriculture (زراعة ولاند سكيب)",
+    "addedBy": "6a512401d8c880b47041f10c",
+    "status": "Active",
+    "createdAt": "2026-07-26T03:30:09.522Z",
+    "updatedAt": "2026-07-26T03:30:09.522Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a65808e3414bc694d597c89",
+    "name": "Ali Hemdan",
+    "phone": "01047845563",
+    "age": 25,
+    "specialization": "Carpentry (نجارة)",
+    "addedBy": null,
+    "status": "Active",
+    "createdAt": "2026-07-26T03:35:42.834Z",
+    "updatedAt": "2026-07-26T03:35:42.834Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a6580ea3414bc694d597c8a",
+    "name": "Fahmy Mahmoud",
+    "phone": "01245647879",
+    "age": 27,
+    "specialization": "Elevators (مصاعد)",
+    "addedBy": null,
+    "status": "Active",
+    "createdAt": "2026-07-26T03:37:14.294Z",
+    "updatedAt": "2026-07-26T03:37:14.294Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a81a566b35baa15748b9e63",
+    "name": "Mohamed Abdallah",
+    "phone": "01012131415",
+    "age": 35,
+    "specialization": "Elevators (مصاعد)",
+    "addedBy": null,
+    "status": "Active",
+    "createdAt": "2026-08-16T11:56:22.556Z",
+    "updatedAt": "2026-08-16T11:56:22.556Z",
+    "__v": 0
+  }
+]
