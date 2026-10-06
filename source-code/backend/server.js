@@ -47,7 +47,7 @@ app.use('/api/arcgis-sync', require('./routes/arcgisSyncRoutes')); // 🚀 مس�
 // 2. مسار تجريبي (Test Route)
 // ==========================================
 app.get('/', (req, res) => {
-  res.send('El Narges Real Estate API & WebSockets are running... 🦅🚀');
+  res.send('Smart GeoTwin Real Estate API & WebSockets are running... 🦅🚀');
 });
 
 // ==========================================

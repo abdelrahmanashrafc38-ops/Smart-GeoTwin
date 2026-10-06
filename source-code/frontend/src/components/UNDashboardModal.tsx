@@ -59,7 +59,7 @@ const UNDashboardModal = ({ onClose }: UNDashboardModalProps) => {
             <span style={{ fontSize: '22px' }}>📊</span>
             <div>
               <h2 style={{ margin: 0, color: 'var(--text-primary)', fontSize: '18px', fontWeight: 'bold', letterSpacing: '0.5px' }}>
-                El-Narges Water Utility Network Dashboard
+                Smart GeoTwin Water Utility Network Dashboard
               </h2>
               <span style={{ color: 'var(--text-muted)', fontSize: '12px' }}>
                 Real-time GIS analytics and monitoring portal
@@ -145,7 +145,7 @@ const UNDashboardModal = ({ onClose }: UNDashboardModalProps) => {
             width="100%"
             height="100%"
             style={{ border: 'none', display: 'block', width: '100%', height: '100%' }}
-            title="El-Narges Water Utility Network Dashboard"
+            title="Smart GeoTwin Water Utility Network Dashboard"
             onLoad={() => setIsLoading(false)}
           />
         </div>

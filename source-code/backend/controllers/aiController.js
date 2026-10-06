@@ -94,7 +94,7 @@ const askAI = async (req, res) => {
 
     // 🚀 النهج الجديد: استخدام الـ AI للرد على السؤال واستخراج المعايير (Parameters) في نفس الوقت
     const prompt = `
-      You are a smart real estate assistant for the El-Narges Compound. 
+      You are a smart real estate assistant for the Smart GeoTwin Compound. 
       Analyze the user's question, answer it using the provided knowledge, and extract any search criteria.
       
       User Question: "${question}"
@@ -299,7 +299,7 @@ const askEngineerAI = async (req, res) => {
     const model = genAI.getGenerativeModel({ model: "gemini-flash-latest" });
 
     const prompt = `
-      You are a Senior Facility Management AI and Chief Engineer for the El-Narges Compound.
+      You are a Senior Facility Management AI and Chief Engineer for the Smart GeoTwin Compound.
       Your job is to assist the maintenance and engineering team with highly technical queries, specifications, and protocols based on the Master Engineering Manual.
       
       Engineer's Question: "${question}"
@@ -358,7 +358,7 @@ const askAdminAI = async (req, res) => {
     const model = genAI.getGenerativeModel({ model: "gemini-flash-latest" });
     
     const prompt = `
-      You are an Admin AI Assistant for the El-Narges Compound.
+      You are an Admin AI Assistant for the Smart GeoTwin Compound.
       Your task is to parse the admin's command and return structured actions.
       The admin might want to change the role of one or more users, assign them units, OR bulk update prices of properties based on their Model.
       

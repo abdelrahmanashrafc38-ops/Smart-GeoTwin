@@ -11,17 +11,17 @@ const transporter = nodemailer.createTransport({
 
 exports.sendComplaintEmail = async (userEmail, userName, complaintTitle, status) => {
     try {
-        let emailSubject = 'تحديث بخصوص شكوتك - منصة النرجس';
+        let emailSubject = 'تحديث بخصوص شكوتك - Smart GeoTwin';
         let emailMessage = '';
 
         if (status === 'Maintenance') {
-            emailSubject = '🚧 الشكوى قيد الصيانة - منصة النرجس';
+            emailSubject = '🚧 الشكوى قيد الصيانة - Smart GeoTwin';
             emailMessage = 'نود إعلامك بأنه تم مراجعة شكوتك وتحويلها لقسم الصيانة، وجاري العمل على حل المشكلة في أسرع وقت.';
         } else if (status === 'Dismissed') {
-            emailSubject = '❌ تم رفض الشكوى - منصة النرجس';
+            emailSubject = '❌ تم رفض الشكوى - Smart GeoTwin';
             emailMessage = 'نود إعلامك بأنه تم مراجعة شكوتك وإغلاقها، إما لعدم استيفاء الشروط أو لأن المشكلة تقع خارج نطاق الإدارة.';
         } else {
-            emailSubject = '✅ تم حل شكوتك - منصة النرجس';
+            emailSubject = '✅ تم حل شكوتك - Smart GeoTwin';
             emailMessage = 'نود إعلامك بأنه تم بنجاح حل الشكوى المقدمة من طرفكم.';
         }
 
@@ -36,7 +36,7 @@ exports.sendComplaintEmail = async (userEmail, userName, complaintTitle, status)
                 <p style="color: #555;"><strong>تفاصيل الشكوى المُقدمة:</strong> ${complaintTitle}</p>
                 <p>شكراً لثقتكم بنا، ونتمنى لكم يوماً سعيداً!</p>
                 <hr>
-                <p style="color: gray; font-size: 12px;">إدارة منصة النرجس العقارية</p>
+                <p style="color: gray; font-size: 12px;">إدارة Smart GeoTwin العقارية</p>
               </div>
             `
         };
@@ -53,7 +53,7 @@ exports.sendBookingEmail = async (userEmail, userName, status, unitId, additiona
         let html = '';
         
         if (status === 'Approved') {
-            subject = '🎉 تمت الموافقة على طلب الشراء - منصة النرجس';
+            subject = '🎉 تمت الموافقة على طلب الشراء - Smart GeoTwin';
             html = `
               <div style="font-family: Arial, sans-serif; text-align: right; direction: rtl;">
                 <h3>أهلاً بك أستاذ ${userName}،</h3>
@@ -61,11 +61,11 @@ exports.sendBookingEmail = async (userEmail, userName, status, unitId, additiona
                 <p>سيقوم فريق المبيعات بالتواصل معك قريباً لإتمام إجراءات التعاقد.</p>
                 <p>شكراً لثقتكم بنا، ونتمنى لكم يوماً سعيداً!</p>
                 <hr>
-                <p style="color: gray; font-size: 12px;">إدارة منصة النرجس العقارية</p>
+                <p style="color: gray; font-size: 12px;">إدارة Smart GeoTwin العقارية</p>
               </div>
             `;
         } else if (status === 'Declined') {
-            subject = '❌ تم رفض طلب الشراء (الوسيط) - منصة النرجس';
+            subject = '❌ تم رفض طلب الشراء (الوسيط) - Smart GeoTwin';
             html = `
               <div style="font-family: Arial, sans-serif; text-align: right; direction: rtl;">
                 <h3>أهلاً بك أستاذ ${userName}،</h3>
@@ -73,11 +73,11 @@ exports.sendBookingEmail = async (userEmail, userName, status, unitId, additiona
                 ${additionalMessage ? `<p style="color: #555;"><strong>السبب:</strong> ${additionalMessage}</p>` : ''}
                 <p>شكراً لثقتكم بنا، ونتمنى لكم يوماً سعيداً!</p>
                 <hr>
-                <p style="color: gray; font-size: 12px;">إدارة منصة النرجس العقارية</p>
+                <p style="color: gray; font-size: 12px;">إدارة Smart GeoTwin العقارية</p>
               </div>
             `;
         } else if (status === 'Rejected') {
-            subject = '❌ تم رفض طلب الشراء (الإدارة) - منصة النرجس';
+            subject = '❌ تم رفض طلب الشراء (الإدارة) - Smart GeoTwin';
             html = `
               <div style="font-family: Arial, sans-serif; text-align: right; direction: rtl;">
                 <h3>أهلاً بك أستاذ ${userName}،</h3>
@@ -85,7 +85,7 @@ exports.sendBookingEmail = async (userEmail, userName, status, unitId, additiona
                 ${additionalMessage ? `<p style="color: #555;"><strong>السبب:</strong> ${additionalMessage}</p>` : ''}
                 <p>شكراً لثقتكم بنا، ونتمنى لكم يوماً سعيداً!</p>
                 <hr>
-                <p style="color: gray; font-size: 12px;">إدارة منصة النرجس العقارية</p>
+                <p style="color: gray; font-size: 12px;">إدارة Smart GeoTwin العقارية</p>
               </div>
             `;
         }

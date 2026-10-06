@@ -13,7 +13,7 @@ const MapViewer2D: React.FC<MapViewer2DProps> = () => {
         src="https://itigeoportal.maps.arcgis.com/apps/instant/nearby/index.html?appid=03827edb59d1439eb7967aeda6ee41d9&distance=40#find=3505231.26633725%2C3511487.9923560116" 
         style={{ width: '100%', height: '100%', border: 'none' }} 
         frameBorder="0"
-        title="El-Narges Services Portal"
+        title="Smart GeoTwin Services Portal"
         allowFullScreen
       />
     </div>

@@ -282,7 +282,7 @@ const CustomerInterface = () => {
       </div>
 
 
-      <div style={{ position: 'absolute', top: '20px', left: '70px', zIndex: 1000, display: 'flex', gap: '15px', alignItems: 'center' }}>
+      <div style={{ position: 'absolute', top: mapMode === '2D' ? 'auto' : '20px', bottom: mapMode === '2D' ? '30px' : 'auto', left: '70px', zIndex: 1000, display: 'flex', gap: '15px', alignItems: 'center' }}>
         
         {/* App Logo */}
         <div style={{ padding: '6px 12px', backgroundColor: 'var(--bg-secondary)', backdropFilter: 'blur(10px)', borderRadius: '10px', border: '1px solid var(--border-color)', display: 'flex', alignItems: 'center' }}>

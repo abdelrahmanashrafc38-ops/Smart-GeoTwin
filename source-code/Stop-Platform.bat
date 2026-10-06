@@ -1,8 +1,8 @@
 @echo off
-title El-Narges Platform - System Stopper
+title Smart GeoTwin Platform - System Stopper
 color 0C
 echo ========================================================
-echo   🛑 Stopping El-Narges Platform Services...
+echo   🛑 Stopping Smart GeoTwin Platform Services...
 echo ========================================================
 echo.
 

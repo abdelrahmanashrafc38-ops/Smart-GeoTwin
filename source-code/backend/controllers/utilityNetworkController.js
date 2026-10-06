@@ -379,7 +379,7 @@ exports.notifyOwners = async (req, res) => {
                     <p>نعتذر عن هذا الإزعاج ونعمل جاهدين لعودة الخدمة في أسرع وقت ممكن.</p>
                     <p>شكراً لتفهمكم وتعاونكم.</p>
                     <br>
-                    <p><strong>إدارة المرافق - منصة النرجس</strong></p>
+                    <p><strong>إدارة المرافق - Smart GeoTwin</strong></p>
                 </div>
             `
         };

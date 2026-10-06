@@ -28,7 +28,7 @@ const WalkthroughTour = ({ role, userName, onClose }: WalkthroughTourProps) => {
   const tourSteps: Record<'visitor' | 'user' | 'owner', Step[]> = {
     visitor: [
       {
-        title: "Welcome to El-Narges Compound Portal! 🏡",
+        title: "Welcome to Smart GeoTwin Portal! 🏡",
         description: "Let's take a quick 1-minute tour of your interactive 3D map workspace. Click 'Next' to begin!",
       },
       {

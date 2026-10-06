@@ -1,18 +1,18 @@
 @echo off
-title El-Narges Platform - System Launcher
+title Smart GeoTwin Platform - System Launcher
 color 0A
 echo ========================================================
-echo   👷 Starting El-Narges Smart Municipal Platform 🚀
+echo   👷 Starting Smart GeoTwin Platform 🚀
 echo ========================================================
 echo.
 echo [1/3] Launching Node.js Backend Server (Port 5000)...
-start "El-Narges Backend Server (Port 5000)" cmd /k "cd /d "%~dp0backend" && npm run dev"
+start "Smart GeoTwin Backend Server (Port 5000)" cmd /k "cd /d "%~dp0backend" && npm run dev"
 
 echo [2/3] Launching Ngrok Tunnel (Survey123 Live Webhook Bridge)...
-start "El-Narges Ngrok Tunnel (Survey123 Bridge)" cmd /k "cd /d "%~dp0backend" && ngrok http 5000"
+start "Smart GeoTwin Ngrok Tunnel (Survey123 Bridge)" cmd /k "cd /d "%~dp0backend" && ngrok http 5000"
 
 echo [3/3] Launching Vite Frontend UI (Port 5173)...
-start "El-Narges Frontend UI (Port 5173)" cmd /k "cd /d "%~dp0frontend" && npm run dev"
+start "Smart GeoTwin Frontend UI (Port 5173)" cmd /k "cd /d "%~dp0frontend" && npm run dev"
 
 echo.
 echo ========================================================
