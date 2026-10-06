@@ -1,7 +1,7 @@
 # Smart GeoTwin
 
 ## 1. Project Overview
-Smart GeoTwin (El Narges Portal) is an interactive 3D Web GIS real estate platform. It addresses the need for a centralized, visually rich, and data-driven platform for managing real estate properties. The main purpose of the platform is to merge real-time operations (such as bookings, complaints, and user management) with 3D spatial data and building models.
+Smart GeoTwin is an interactive 3D Web GIS real estate platform. It addresses the need for a centralized, visually rich, and data-driven platform for managing real estate properties. The main purpose of the platform is to merge real-time operations (such as bookings, complaints, and user management) with 3D spatial data and building models.
 
 The system targets multiple types of users:
 - Visitors
